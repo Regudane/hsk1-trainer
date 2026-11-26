@@ -1,0 +1,997 @@
+[
+  {
+    "id": "g1.1-1",
+    "syllabusRef": "1.1",
+    "category": [
+      "语素",
+      "前缀"
+    ],
+    "syllabusText": "小—、第—",
+    "title": "Prefixes 小- (小王) and 第- (第一)",
+    "unitIds": [
+      "u02",
+      "u05"
+    ]
+  },
+  {
+    "id": "g1.2-1",
+    "syllabusRef": "1.2",
+    "category": [
+      "语素",
+      "后缀"
+    ],
+    "syllabusText": "—们、—边",
+    "title": "Suffixes -们 (more than one person) and -边 (side)",
+    "unitIds": [
+      "u01",
+      "u10"
+    ]
+  },
+  {
+    "id": "g2.1.1-1",
+    "syllabusRef": "2.1.1",
+    "category": [
+      "词类",
+      "名词",
+      "方位名词"
+    ],
+    "syllabusText": "上、下、里、外、前、后",
+    "title": "Position words: 上 下 里 外 前 后",
+    "unitIds": [
+      "u10"
+    ]
+  },
+  {
+    "id": "g2.2.1-1",
+    "syllabusRef": "2.2.1",
+    "category": [
+      "词类",
+      "动词",
+      "能愿动词"
+    ],
+    "syllabusText": "会、能",
+    "title": "Can: 会 (know how to) and 能 (be able to)",
+    "unitIds": [
+      "u13",
+      "u14"
+    ]
+  },
+  {
+    "id": "g2.2.1-2",
+    "syllabusRef": "2.2.1",
+    "category": [
+      "词类",
+      "动词",
+      "能愿动词"
+    ],
+    "syllabusText": "想、要",
+    "title": "Want to: 想 and 要",
+    "unitIds": [
+      "u07"
+    ]
+  },
+  {
+    "id": "g2.2.1-3",
+    "syllabusRef": "2.2.1",
+    "category": [
+      "词类",
+      "动词",
+      "能愿动词"
+    ],
+    "syllabusText": "可以",
+    "title": "Can, may: 可以",
+    "unitIds": [
+      "u14"
+    ]
+  },
+  {
+    "id": "g2.2.2-1",
+    "syllabusRef": "2.2.2",
+    "category": [
+      "词类",
+      "动词",
+      "离合词"
+    ],
+    "syllabusText": "看病、睡觉、说话、上课、下课、上班、下班、生病",
+    "title": "Separable verbs (睡觉, 上班, 说话…)",
+    "unitIds": [
+      "u06",
+      "u13",
+      "u16"
+    ]
+  },
+  {
+    "id": "g2.3.1-1",
+    "syllabusRef": "2.3.1",
+    "category": [
+      "词类",
+      "代词",
+      "疑问代词"
+    ],
+    "syllabusText": "多、多少、几、哪、哪儿、哪里、哪些、什么、谁、怎么、怎么样",
+    "title": "Question words (什么, 谁, 哪, 几, 多少, 怎么…)",
+    "unitIds": [
+      "u02",
+      "u03",
+      "u09",
+      "u10",
+      "u11",
+      "u12"
+    ]
+  },
+  {
+    "id": "g2.3.2-1",
+    "syllabusRef": "2.3.2",
+    "category": [
+      "词类",
+      "代词",
+      "人称代词"
+    ],
+    "syllabusText": "我、你、您、他、她、我们、你们、他们、她们、它、它们、大家",
+    "title": "Personal pronouns (我, 你, 您, 他, 她, 它, 大家)",
+    "unitIds": [
+      "u01",
+      "u04"
+    ]
+  },
+  {
+    "id": "g2.3.3-1",
+    "syllabusRef": "2.3.3",
+    "category": [
+      "词类",
+      "代词",
+      "指示代词"
+    ],
+    "syllabusText": "这、那、这儿、那儿、这里、那里、这些、那些、有的、这个、那个、有些",
+    "title": "This and that (这, 那, 这儿, 这些, 有的…)",
+    "unitIds": [
+      "u02",
+      "u08",
+      "u09",
+      "u10"
+    ]
+  },
+  {
+    "id": "g2.4-1",
+    "syllabusRef": "2.4",
+    "category": [
+      "词类",
+      "数词"
+    ],
+    "syllabusText": "一、二/两、三、四、五、六、七、八、九、零、十、百、半、千",
+    "title": "Numbers, including 二 vs 两",
+    "unitIds": [
+      "u03"
+    ]
+  },
+  {
+    "id": "g2.5.1-1",
+    "syllabusRef": "2.5.1",
+    "category": [
+      "词类",
+      "量词",
+      "名量词"
+    ],
+    "syllabusText": "（1）专用名量词：本、个、家、口、块、件、只、元",
+    "title": "Measure words: 本 个 家 口 块 件 只 元",
+    "unitIds": [
+      "u03",
+      "u04",
+      "u08",
+      "u09",
+      "u12"
+    ]
+  },
+  {
+    "id": "g2.5.1-2",
+    "syllabusRef": "2.5.1",
+    "category": [
+      "词类",
+      "量词",
+      "名量词"
+    ],
+    "syllabusText": "（2）借用名量词：杯",
+    "title": "Borrowed measure word: 杯 (a cup of)",
+    "unitIds": [
+      "u07"
+    ]
+  },
+  {
+    "id": "g2.5.2-1",
+    "syllabusRef": "2.5.2",
+    "category": [
+      "词类",
+      "量词",
+      "时量词"
+    ],
+    "syllabusText": "日、号、岁、点、分、年、天",
+    "title": "Units of time and age: 日 号 岁 点 分 年 天",
+    "unitIds": [
+      "u03",
+      "u05",
+      "u06"
+    ]
+  },
+  {
+    "id": "g2.6.1-1",
+    "syllabusRef": "2.6.1",
+    "category": [
+      "词类",
+      "副词",
+      "程度副词"
+    ],
+    "syllabusText": "非常、很、太、真、有（一）点儿",
+    "title": "How much: 非常 很 太 真 有(一)点儿",
+    "unitIds": [
+      "u08",
+      "u09",
+      "u12"
+    ]
+  },
+  {
+    "id": "g2.6.2-1",
+    "syllabusRef": "2.6.2",
+    "category": [
+      "词类",
+      "副词",
+      "范围副词"
+    ],
+    "syllabusText": "都1",
+    "title": "都 (all, both)",
+    "unitIds": [
+      "u04"
+    ]
+  },
+  {
+    "id": "g2.6.3-1",
+    "syllabusRef": "2.6.3",
+    "category": [
+      "词类",
+      "副词",
+      "时间副词"
+    ],
+    "syllabusText": "在、正在",
+    "title": "在 / 正在 (in the middle of doing)",
+    "unitIds": [
+      "u15"
+    ]
+  },
+  {
+    "id": "g2.6.4-1",
+    "syllabusRef": "2.6.4",
+    "category": [
+      "词类",
+      "副词",
+      "频率副词"
+    ],
+    "syllabusText": "再1",
+    "title": "再 (again)",
+    "unitIds": [
+      "u16"
+    ]
+  },
+  {
+    "id": "g2.6.5-1",
+    "syllabusRef": "2.6.5",
+    "category": [
+      "词类",
+      "副词",
+      "关联副词"
+    ],
+    "syllabusText": "还1、也",
+    "title": "还 and 也 (also)",
+    "unitIds": [
+      "u04",
+      "u14"
+    ]
+  },
+  {
+    "id": "g2.6.6-1",
+    "syllabusRef": "2.6.6",
+    "category": [
+      "词类",
+      "副词",
+      "否定副词"
+    ],
+    "syllabusText": "不、没（有）、不要",
+    "title": "Saying no: 不, 没(有), 不要",
+    "unitIds": [
+      "u02",
+      "u04",
+      "u16"
+    ]
+  },
+  {
+    "id": "g2.7.1-1",
+    "syllabusRef": "2.7.1",
+    "category": [
+      "词类",
+      "介词",
+      "引出时间、处所"
+    ],
+    "syllabusText": "在",
+    "title": "在 + place or time (at, in)",
+    "unitIds": [
+      "u06",
+      "u10"
+    ]
+  },
+  {
+    "id": "g2.7.2-1",
+    "syllabusRef": "2.7.2",
+    "category": [
+      "词类",
+      "介词",
+      "引出对象"
+    ],
+    "syllabusText": "和1、对",
+    "title": "和 (with) and 对 (to, towards)",
+    "unitIds": [
+      "u04",
+      "u15"
+    ]
+  },
+  {
+    "id": "g2.8.1-1",
+    "syllabusRef": "2.8.1",
+    "category": [
+      "词类",
+      "连词",
+      "连接词语或短语"
+    ],
+    "syllabusText": "和2",
+    "title": "和 (and) joining nouns",
+    "unitIds": [
+      "u04"
+    ]
+  },
+  {
+    "id": "g2.9.1-1",
+    "syllabusRef": "2.9.1",
+    "category": [
+      "词类",
+      "助词",
+      "结构助词"
+    ],
+    "syllabusText": "的1",
+    "title": "的 (possession and description)",
+    "unitIds": [
+      "u04"
+    ]
+  },
+  {
+    "id": "g2.9.2-1",
+    "syllabusRef": "2.9.2",
+    "category": [
+      "词类",
+      "助词",
+      "动态助词"
+    ],
+    "syllabusText": "了1",
+    "title": "了 after a verb (a completed action)",
+    "unitIds": [
+      "u16"
+    ]
+  },
+  {
+    "id": "g2.9.3-1",
+    "syllabusRef": "2.9.3",
+    "category": [
+      "词类",
+      "助词",
+      "语气助词"
+    ],
+    "syllabusText": "吧1、了2 、吗、呢1、呢2、呢3",
+    "title": "Sentence-ending particles: 吧, 了, 吗, 呢",
+    "unitIds": [
+      "u02",
+      "u07",
+      "u12",
+      "u15"
+    ]
+  },
+  {
+    "id": "g2.10-1",
+    "syllabusRef": "2.10",
+    "category": [
+      "词类",
+      "叹词"
+    ],
+    "syllabusText": "喂",
+    "title": "喂 (hello on the phone)",
+    "unitIds": [
+      "u15"
+    ]
+  },
+  {
+    "id": "g3.1.1-1",
+    "syllabusRef": "3.1.1",
+    "category": [
+      "短语",
+      "结构类型",
+      "基本结构类型"
+    ],
+    "syllabusText": "（1）联合短语",
+    "title": "Joined phrases (爸爸和妈妈)",
+    "unitIds": [
+      "u04"
+    ]
+  },
+  {
+    "id": "g3.1.1-2",
+    "syllabusRef": "3.1.1",
+    "category": [
+      "短语",
+      "结构类型",
+      "基本结构类型"
+    ],
+    "syllabusText": "（2）偏正短语",
+    "title": "Describer + noun (中国人, 我的书)",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g3.1.1-3",
+    "syllabusRef": "3.1.1",
+    "category": [
+      "短语",
+      "结构类型",
+      "基本结构类型"
+    ],
+    "syllabusText": "（3）动宾短语",
+    "title": "Verb + object (吃饭, 看书)",
+    "unitIds": [
+      "u13"
+    ]
+  },
+  {
+    "id": "g3.1.1-4",
+    "syllabusRef": "3.1.1",
+    "category": [
+      "短语",
+      "结构类型",
+      "基本结构类型"
+    ],
+    "syllabusText": "（4）主谓短语",
+    "title": "A mini sentence inside a sentence (我觉得天气很好)",
+    "unitIds": [
+      "u12"
+    ]
+  },
+  {
+    "id": "g3.1.2-1",
+    "syllabusRef": "3.1.2",
+    "category": [
+      "短语",
+      "结构类型",
+      "其他结构类型"
+    ],
+    "syllabusText": "（1）数量短语",
+    "title": "Number + measure word (三个, 两本)",
+    "unitIds": [
+      "u03"
+    ]
+  },
+  {
+    "id": "g3.1.2-2",
+    "syllabusRef": "3.1.2",
+    "category": [
+      "短语",
+      "结构类型",
+      "其他结构类型"
+    ],
+    "syllabusText": "（2）介宾短语",
+    "title": "Preposition phrases (在家, 和朋友)",
+    "unitIds": [
+      "u06"
+    ]
+  },
+  {
+    "id": "g3.1.2-3",
+    "syllabusRef": "3.1.2",
+    "category": [
+      "短语",
+      "结构类型",
+      "其他结构类型"
+    ],
+    "syllabusText": "（3）方位短语",
+    "title": "Location phrases (桌子上, 房间里)",
+    "unitIds": [
+      "u10"
+    ]
+  },
+  {
+    "id": "g4.1-1",
+    "syllabusRef": "4.1",
+    "category": [
+      "句子成分",
+      "主语"
+    ],
+    "syllabusText": "名词、代词或名词性短语作主语",
+    "title": "Subjects: nouns and pronouns",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g4.2-1",
+    "syllabusRef": "4.2",
+    "category": [
+      "句子成分",
+      "谓语"
+    ],
+    "syllabusText": "名词、代词、数词或数量短语作谓语",
+    "title": "Nouns and numbers as the predicate (我三十岁)",
+    "unitIds": [
+      "u03"
+    ]
+  },
+  {
+    "id": "g4.2-2",
+    "syllabusRef": "4.2",
+    "category": [
+      "句子成分",
+      "谓语"
+    ],
+    "syllabusText": "动词或动词性短语、形容词或形容词性短语作谓语",
+    "title": "Verbs and adjectives as the predicate",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g4.3-1",
+    "syllabusRef": "4.3",
+    "category": [
+      "句子成分",
+      "宾语"
+    ],
+    "syllabusText": "名词、代词或名词性短语作宾语",
+    "title": "Objects: nouns and pronouns",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g4.4-1",
+    "syllabusRef": "4.4",
+    "category": [
+      "句子成分",
+      "定语"
+    ],
+    "syllabusText": "名词性词语、形容词性短语、数量短语作定语",
+    "title": "Describers before nouns",
+    "unitIds": [
+      "u04",
+      "u09"
+    ]
+  },
+  {
+    "id": "g4.5-1",
+    "syllabusRef": "4.5",
+    "category": [
+      "句子成分",
+      "状语"
+    ],
+    "syllabusText": "副词、形容词作状语表示时间、处所的词语作状语",
+    "title": "Time and place words go before the verb",
+    "unitIds": [
+      "u06"
+    ]
+  },
+  {
+    "id": "g4.6.1-1",
+    "syllabusRef": "4.6.1",
+    "category": [
+      "句子成分",
+      "补语",
+      "数量补语1"
+    ],
+    "syllabusText": "动词+动量补语",
+    "title": "Verb + how many times (看一下)",
+    "unitIds": [
+      "u16"
+    ]
+  },
+  {
+    "id": "g5.1.1-1",
+    "syllabusRef": "5.1.1",
+    "category": [
+      "句子的类型",
+      "句型",
+      "单句"
+    ],
+    "syllabusText": "主谓句1：动词谓语句",
+    "title": "Sentences built on a verb",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g5.1.1-2",
+    "syllabusRef": "5.1.1",
+    "category": [
+      "句子的类型",
+      "句型",
+      "单句"
+    ],
+    "syllabusText": "主谓句2：形容词谓语句",
+    "title": "Sentences built on an adjective (我很好)",
+    "unitIds": [
+      "u01",
+      "u09"
+    ]
+  },
+  {
+    "id": "g5.1.1-3",
+    "syllabusRef": "5.1.1",
+    "category": [
+      "句子的类型",
+      "句型",
+      "单句"
+    ],
+    "syllabusText": "主谓句3：名词谓语句",
+    "title": "Sentences built on a noun (今天星期一)",
+    "unitIds": [
+      "u03"
+    ]
+  },
+  {
+    "id": "g5.1.1-4",
+    "syllabusRef": "5.1.1",
+    "category": [
+      "句子的类型",
+      "句型",
+      "单句"
+    ],
+    "syllabusText": "非主谓句",
+    "title": "Sentences without a subject (谢谢！ 下雨了。)",
+    "unitIds": [
+      "u01",
+      "u12"
+    ]
+  },
+  {
+    "id": "g5.2.1-1",
+    "syllabusRef": "5.2.1",
+    "category": [
+      "句子的类型",
+      "句类",
+      "陈述句"
+    ],
+    "syllabusText": "",
+    "title": "Statements",
+    "unitIds": [
+      "u01"
+    ]
+  },
+  {
+    "id": "g5.2.2-1",
+    "syllabusRef": "5.2.2",
+    "category": [
+      "句子的类型",
+      "句类",
+      "疑问句"
+    ],
+    "syllabusText": "（1）是非问句",
+    "title": "Yes/no questions with 吗",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g5.2.2-2",
+    "syllabusRef": "5.2.2",
+    "category": [
+      "句子的类型",
+      "句类",
+      "疑问句"
+    ],
+    "syllabusText": "（2）特指问句",
+    "title": "Questions with question words",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g5.2.2-3",
+    "syllabusRef": "5.2.2",
+    "category": [
+      "句子的类型",
+      "句类",
+      "疑问句"
+    ],
+    "syllabusText": "（3）正反问句",
+    "title": "Yes-or-no by repeating the verb (贵不贵？)",
+    "unitIds": [
+      "u08"
+    ]
+  },
+  {
+    "id": "g5.2.3-1",
+    "syllabusRef": "5.2.3",
+    "category": [
+      "句子的类型",
+      "句类",
+      "祈使句"
+    ],
+    "syllabusText": "",
+    "title": "Requests and commands (请…, 不要…)",
+    "unitIds": [
+      "u16"
+    ]
+  },
+  {
+    "id": "g5.2.4-1",
+    "syllabusRef": "5.2.4",
+    "category": [
+      "句子的类型",
+      "句类",
+      "感叹句"
+    ],
+    "syllabusText": "",
+    "title": "Exclamations (太好了！)",
+    "unitIds": [
+      "u08",
+      "u16"
+    ]
+  },
+  {
+    "id": "g5.3.1-1",
+    "syllabusRef": "5.3.1",
+    "category": [
+      "句子的类型",
+      "特殊句型",
+      "“是”字句1"
+    ],
+    "syllabusText": "表示等同或类属",
+    "title": "是 sentences (A is B)",
+    "unitIds": [
+      "u02"
+    ]
+  },
+  {
+    "id": "g5.3.2-1",
+    "syllabusRef": "5.3.2",
+    "category": [
+      "句子的类型",
+      "特殊句型",
+      "“有”字句1"
+    ],
+    "syllabusText": "表示领有",
+    "title": "有 sentences (to have)",
+    "unitIds": [
+      "u04"
+    ]
+  },
+  {
+    "id": "g5.3.3-1",
+    "syllabusRef": "5.3.3",
+    "category": [
+      "句子的类型",
+      "特殊句型",
+      "存现句1"
+    ],
+    "syllabusText": "（1）所处+是+名词",
+    "title": "Place + 是 + noun (what is there)",
+    "unitIds": [
+      "u10"
+    ]
+  },
+  {
+    "id": "g5.3.3-2",
+    "syllabusRef": "5.3.3",
+    "category": [
+      "句子的类型",
+      "特殊句型",
+      "存现句1"
+    ],
+    "syllabusText": "（2）处所+有+数量短语+名词",
+    "title": "Place + 有 + number + noun (there is, there are)",
+    "unitIds": [
+      "u10"
+    ]
+  },
+  {
+    "id": "g5.3.4-1",
+    "syllabusRef": "5.3.4",
+    "category": [
+      "句子的类型",
+      "特殊句型",
+      "连动句1"
+    ],
+    "syllabusText": "（1）前后动作先后发生，后一动作是前一动作的目的",
+    "title": "Two verbs in a row: go and do (去商店买东西)",
+    "unitIds": [
+      "u11"
+    ]
+  },
+  {
+    "id": "g5.3.4-2",
+    "syllabusRef": "5.3.4",
+    "category": [
+      "句子的类型",
+      "特殊句型",
+      "连动句1"
+    ],
+    "syllabusText": "（2）前一动作是后一动作的方式",
+    "title": "Two verbs in a row: how you go (坐飞机去)",
+    "unitIds": [
+      "u11"
+    ]
+  },
+  {
+    "id": "g5.3.5-1",
+    "syllabusRef": "5.3.5",
+    "category": [
+      "句子的类型",
+      "特殊句型",
+      "双宾语句1"
+    ],
+    "syllabusText": "主语+动词+宾语1+宾语2",
+    "title": "Two objects (给我两个苹果)",
+    "unitIds": [
+      "u08"
+    ]
+  },
+  {
+    "id": "g5.4.1-1",
+    "syllabusRef": "5.4.1",
+    "category": [
+      "句子的类型",
+      "复句",
+      "不用关联词语的复句"
+    ],
+    "syllabusText": "",
+    "title": "Two clauses side by side, no linking word",
+    "unitIds": [
+      "u14"
+    ]
+  },
+  {
+    "id": "g5.4.2-1",
+    "syllabusRef": "5.4.2",
+    "category": [
+      "句子的类型",
+      "复句",
+      "并列复句"
+    ],
+    "syllabusText": "……，也……",
+    "title": "……，也…… (…, and also …)",
+    "unitIds": [
+      "u14"
+    ]
+  },
+  {
+    "id": "g5.4.2-2",
+    "syllabusRef": "5.4.2",
+    "category": [
+      "句子的类型",
+      "复句",
+      "并列复句"
+    ],
+    "syllabusText": "……，还……",
+    "title": "……，还…… (…, and … as well)",
+    "unitIds": [
+      "u14"
+    ]
+  },
+  {
+    "id": "g6.1.1-1",
+    "syllabusRef": "6.1.1",
+    "category": [
+      "动作的态",
+      "完成态"
+    ],
+    "syllabusText": "用动态助词“了1”表示",
+    "title": "Completed actions with 了",
+    "unitIds": [
+      "u16"
+    ]
+  },
+  {
+    "id": "g6.1.2-1",
+    "syllabusRef": "6.1.2",
+    "category": [
+      "动作的态",
+      "变化态"
+    ],
+    "syllabusText": "用动态助词“了2”表示",
+    "title": "Something has changed: 了 (下雨了)",
+    "unitIds": [
+      "u12"
+    ]
+  },
+  {
+    "id": "g6.1.3-1",
+    "syllabusRef": "6.1.3",
+    "category": [
+      "动作的态",
+      "进行态"
+    ],
+    "syllabusText": "（1）……在/正在+动词",
+    "title": "Happening now: 在/正在 + verb",
+    "unitIds": [
+      "u15"
+    ]
+  },
+  {
+    "id": "g6.1.3-2",
+    "syllabusRef": "6.1.3",
+    "category": [
+      "动作的态",
+      "进行态"
+    ],
+    "syllabusText": "（2）……在/正在+动词……+呢",
+    "title": "Happening now: 在/正在 + verb … 呢",
+    "unitIds": [
+      "u15"
+    ]
+  },
+  {
+    "id": "g6.1.3-3",
+    "syllabusRef": "6.1.3",
+    "category": [
+      "动作的态",
+      "进行态"
+    ],
+    "syllabusText": "（3）……呢",
+    "title": "Happening now: … 呢",
+    "unitIds": [
+      "u15"
+    ]
+  },
+  {
+    "id": "g7.1-1",
+    "syllabusRef": "7.1",
+    "category": [
+      "特殊表达法",
+      "数的表达法"
+    ],
+    "syllabusText": "钱数表示法",
+    "title": "Amounts of money (三块五)",
+    "unitIds": [
+      "u08"
+    ]
+  },
+  {
+    "id": "g7.1-2",
+    "syllabusRef": "7.1",
+    "category": [
+      "特殊表达法",
+      "数的表达法"
+    ],
+    "syllabusText": "序数表达法1：第+数词",
+    "title": "First, second…: 第 + number",
+    "unitIds": [
+      "u05"
+    ]
+  },
+  {
+    "id": "g7.2-1",
+    "syllabusRef": "7.2",
+    "category": [
+      "特殊表达法",
+      "时间表示法"
+    ],
+    "syllabusText": "（1）年、月、日、星期表示法",
+    "title": "Dates: year, month, day, weekday",
+    "unitIds": [
+      "u05"
+    ]
+  },
+  {
+    "id": "g7.2-2",
+    "syllabusRef": "7.2",
+    "category": [
+      "特殊表达法",
+      "时间表示法"
+    ],
+    "syllabusText": "（2）钟点表示法",
+    "title": "Clock time (点, 分, 半)",
+    "unitIds": [
+      "u06"
+    ]
+  }
+]

@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "u00-l1",
+    "title": "The four tones and the neutral tone",
+    "summary": "Mandarin uses pitch to tell words apart. Learn the four tones and the light neutral tone.",
+    "sections": [
+      {
+        "teach": {
+          "title": "Four tones",
+          "body": [
+            "In Mandarin the same syllable means different things depending on the shape of its pitch. These shapes are called tones.",
+            "Here are the four tones on ma. The pictures show each tone's shape, from low (bottom) to high (top). Tap each one to hear it."
+          ],
+          "contours": true,
+          "items": [
+            {
+              "syllable": "ma1"
+            },
+            {
+              "syllable": "ma2"
+            },
+            {
+              "syllable": "ma3"
+            },
+            {
+              "syllable": "ma4"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "tone",
+            "syllable": "ma1"
+          },
+          {
+            "type": "tone",
+            "syllable": "ma3"
+          },
+          {
+            "type": "tone",
+            "syllable": "ma4"
+          },
+          {
+            "type": "tone",
+            "syllable": "ma2"
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Tone 1 and tone 4",
+          "body": [
+            "Tone 1 (ā) is high and level, like holding a note.",
+            "Tone 4 (à) falls sharply from high to low, like a firm “No!”"
+          ],
+          "contours": true,
+          "items": [
+            {
+              "syllable": "fei1"
+            },
+            {
+              "syllable": "fei4"
+            },
+            {
+              "syllable": "tang1"
+            },
+            {
+              "syllable": "tang4"
+            },
+            {
+              "syllable": "wan1"
+            },
+            {
+              "syllable": "wan4"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "tone",
+            "syllable": "fei1"
+          },
+          {
+            "type": "tone",
+            "syllable": "tang4"
+          },
+          {
+            "type": "tone",
+            "syllable": "wan1"
+          },
+          {
+            "type": "tone",
+            "syllable": "qi4"
+          },
+          {
+            "type": "tone",
+            "syllable": "shi1"
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Tone 2 and tone 3",
+          "body": [
+            "Tone 2 (á) rises from the middle to high, like asking “What?”",
+            "Tone 3 (ǎ) goes low. Said on its own it dips and comes back up a little; in normal speech it mostly just stays low, sometimes a bit creaky."
+          ],
+          "contours": true,
+          "items": [
+            {
+              "syllable": "yu2"
+            },
+            {
+              "syllable": "yu3"
+            },
+            {
+              "syllable": "chi2"
+            },
+            {
+              "syllable": "chi3"
+            },
+            {
+              "syllable": "fang2"
+            },
+            {
+              "syllable": "fang3"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "tone",
+            "syllable": "yu2"
+          },
+          {
+            "type": "tone",
+            "syllable": "chi3"
+          },
+          {
+            "type": "tone",
+            "syllable": "zhu2"
+          },
+          {
+            "type": "tone",
+            "syllable": "xiang3"
+          },
+          {
+            "type": "tone",
+            "syllable": "tong2"
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "The neutral tone",
+          "body": [
+            "Some syllables are said lightly and quickly, with no tone of their own. Pinyin writes them with no mark, like the second ma in māma (mum).",
+            "Its pitch depends on the tone before it, so just keep it short and light."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w114"
+            },
+            {
+              "word": "w003"
+            },
+            {
+              "word": "w059"
+            },
+            {
+              "word": "w241"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "Which syllable is light and short?",
+            "options": [
+              "The first: bà",
+              "The second: ba"
+            ],
+            "answer": 1,
+            "explain": "bàba: the first syllable is 4th tone, the second is neutral.",
+            "audio": {
+              "word": "w003"
+            }
+          },
+          {
+            "type": "pick",
+            "syllable": "ma1",
+            "options": [
+              "ma1",
+              "ma2",
+              "ma3",
+              "ma4"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "ba4",
+            "options": [
+              "ba1",
+              "ba2",
+              "ba3",
+              "ba4"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "yi2",
+            "options": [
+              "yi1",
+              "yi2",
+              "yi3",
+              "yi4"
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Mix them up",
+          "body": [
+            "Now all four tones, in any order. Listen, then press 1, 2, 3 or 4."
+          ],
+          "contours": true,
+          "items": [
+            {
+              "syllable": "lao1"
+            },
+            {
+              "syllable": "lao2"
+            },
+            {
+              "syllable": "lao3"
+            },
+            {
+              "syllable": "lao4"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "tone",
+            "syllable": "guo2"
+          },
+          {
+            "type": "tone",
+            "syllable": "tian3"
+          },
+          {
+            "type": "tone",
+            "syllable": "mai4"
+          },
+          {
+            "type": "tone",
+            "syllable": "ji1"
+          },
+          {
+            "type": "tone",
+            "syllable": "tong4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u00-l2",
+    "title": "Initials",
+    "summary": "The consonants that start a syllable, especially the ones English speakers mix up.",
+    "sections": [
+      {
+        "teach": {
+          "title": "With a puff, or without",
+          "body": [
+            "b, d and g have no puff of air. p, t and k come with a strong puff: hold your hand in front of your mouth and you'll feel it.",
+            "To an English ear b and p can sound alike. Listen for the puff."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "ba1"
+            },
+            {
+              "syllable": "pa1"
+            },
+            {
+              "syllable": "da1"
+            },
+            {
+              "syllable": "ta1"
+            },
+            {
+              "syllable": "ge1"
+            },
+            {
+              "syllable": "ke1"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "ba1",
+            "options": [
+              "ba1",
+              "pa1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "ta1",
+            "options": [
+              "da1",
+              "ta1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "ke1",
+            "options": [
+              "ge1",
+              "ke1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "pa1",
+            "options": [
+              "ba1",
+              "pa1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "da1",
+            "options": [
+              "da1",
+              "ta1"
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "f and h; n and l",
+          "body": [
+            "f is like English f. h is rougher than English h, from the back of the throat, a little like the ch in Scottish “loch”.",
+            "n and l are as in English, but keep them apart: nán (south) and lán (blue) are different words."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "fei1"
+            },
+            {
+              "syllable": "hui1"
+            },
+            {
+              "syllable": "nan2"
+            },
+            {
+              "syllable": "lan2"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "hui1",
+            "options": [
+              "fei1",
+              "hui1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "nan2",
+            "options": [
+              "nan2",
+              "lan2"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "lan2",
+            "options": [
+              "nan2",
+              "lan2"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "fei1",
+            "options": [
+              "fei1",
+              "hui1"
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "zh, ch, sh, r: tongue curled back",
+          "body": [
+            "For zh, ch, sh and r, curl the tip of your tongue up towards the roof of your mouth.",
+            "zh is like the j in “jar”, ch like the ch in “church”, sh like the sh in “shop”, all with the tongue curled. r sits between English r and the s in “pleasure”."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "zhu1"
+            },
+            {
+              "syllable": "chu1"
+            },
+            {
+              "syllable": "shu1"
+            },
+            {
+              "syllable": "ri4"
+            },
+            {
+              "syllable": "re4"
+            },
+            {
+              "syllable": "ren2"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "zhu1",
+            "options": [
+              "zhu1",
+              "chu1",
+              "shu1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "shu1",
+            "options": [
+              "zhu1",
+              "chu1",
+              "shu1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "chu1",
+            "options": [
+              "zhu1",
+              "chu1",
+              "shu1"
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "z, c, s: tongue behind the teeth",
+          "body": [
+            "z is like the ds in “reads”. c is like the ts in “cats”, with a puff. s is like English s.",
+            "Compare them with the curled zh, ch and sh."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "zi1"
+            },
+            {
+              "syllable": "ci2"
+            },
+            {
+              "syllable": "si1"
+            },
+            {
+              "syllable": "zu1"
+            },
+            {
+              "syllable": "cu1"
+            },
+            {
+              "syllable": "su1"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "zi1",
+            "options": [
+              "zhi1",
+              "zi1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "ci2",
+            "options": [
+              "chi2",
+              "ci2"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "si1",
+            "options": [
+              "shi1",
+              "si1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "zhu1",
+            "options": [
+              "zhu1",
+              "zu1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "su1",
+            "options": [
+              "shu1",
+              "su1"
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "j, q, x: tongue flat, lips spread",
+          "body": [
+            "j, q and x are only ever followed by i or ü. Spread your lips as if smiling, with your tongue flat behind your bottom teeth.",
+            "j is like the g in “genie”, q like the ch in “cheese” with a puff, x like the sh in “sheep” but flatter. None of them is curled."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "ji1"
+            },
+            {
+              "syllable": "qi1"
+            },
+            {
+              "syllable": "xi1"
+            },
+            {
+              "syllable": "ju1"
+            },
+            {
+              "syllable": "qu1"
+            },
+            {
+              "syllable": "xu1"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "ji1",
+            "options": [
+              "zhi1",
+              "zi1",
+              "ji1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "qi2",
+            "options": [
+              "chi2",
+              "ci2",
+              "qi2"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "xi1",
+            "options": [
+              "shi1",
+              "si1",
+              "xi1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "qu1",
+            "options": [
+              "chu1",
+              "cu1",
+              "qu1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "xu1",
+            "options": [
+              "shu1",
+              "su1",
+              "xu1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "ju1",
+            "options": [
+              "zhu1",
+              "zu1",
+              "ju1"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u00-l3",
+    "title": "Finals",
+    "summary": "The vowel endings: -n against -ng, the ü sound, and er.",
+    "sections": [
+      {
+        "teach": {
+          "title": "-n and -ng",
+          "body": [
+            "-n is made with the tip of the tongue behind the top teeth, as in “ran”. -ng is at the back of the mouth, as in “sang”.",
+            "They make different words: fān (sail) and fāng (square)."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "fan1"
+            },
+            {
+              "syllable": "fang1"
+            },
+            {
+              "syllable": "xin1"
+            },
+            {
+              "syllable": "xing1"
+            },
+            {
+              "syllable": "guan1"
+            },
+            {
+              "syllable": "guang1"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "fang1",
+            "options": [
+              "fan1",
+              "fang1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "xin1",
+            "options": [
+              "xin1",
+              "xing1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "seng1",
+            "options": [
+              "sen1",
+              "seng1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "xian1",
+            "options": [
+              "xian1",
+              "xiang1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "guang1",
+            "options": [
+              "guan1",
+              "guang1"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "fan1",
+            "options": [
+              "fan1",
+              "fang1"
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "The ü sound",
+          "body": [
+            "ü isn't in English. Say “ee”, then round your lips as if to whistle without moving your tongue.",
+            "After n and l it keeps its two dots: nǚ (woman), lǚ (to travel). After j, q, x and y the dots are left off, but it's still ü: ju, qu, xu, yu."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "wu2"
+            },
+            {
+              "syllable": "yu2"
+            },
+            {
+              "syllable": "nu3"
+            },
+            {
+              "syllable": "nv3"
+            },
+            {
+              "syllable": "lu3"
+            },
+            {
+              "syllable": "lv3"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "yu2",
+            "options": [
+              "wu2",
+              "yu2"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "nv3",
+            "options": [
+              "nu3",
+              "nv3"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "lu3",
+            "options": [
+              "lu3",
+              "lv3"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "lv3",
+            "options": [
+              "lu3",
+              "lv3"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "wu2",
+            "options": [
+              "wu2",
+              "yu2"
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "üe, ün, üan, and ie",
+          "body": [
+            "With y, j, q or x in front, üe, ün and üan are written ue, un and uan: yuè (moon), yún (cloud), yuǎn (far).",
+            "ie sounds like the ye in “yes”: xiě (write). Compare xuě (snow), which has ü."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "yue4"
+            },
+            {
+              "syllable": "yun2"
+            },
+            {
+              "syllable": "yuan3"
+            },
+            {
+              "syllable": "xie3"
+            },
+            {
+              "syllable": "xue3"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pick",
+            "syllable": "xie3",
+            "options": [
+              "xie3",
+              "xue3"
+            ]
+          },
+          {
+            "type": "pick",
+            "syllable": "xue3",
+            "options": [
+              "xie3",
+              "xue3"
+            ]
+          },
+          {
+            "type": "tone",
+            "syllable": "yuan3"
+          },
+          {
+            "type": "tone",
+            "syllable": "yun2"
+          },
+          {
+            "type": "tone",
+            "syllable": "yue4"
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "er",
+          "body": [
+            "er is said with the tongue curled back, a bit like an American “are”.",
+            "It also joins the end of other syllables as -r, as in wánr (play) and diǎnr (a bit)."
+          ],
+          "contours": true,
+          "items": [
+            {
+              "syllable": "er2"
+            },
+            {
+              "syllable": "er3"
+            },
+            {
+              "syllable": "er4"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "tone",
+            "syllable": "er4"
+          },
+          {
+            "type": "tone",
+            "syllable": "er2"
+          },
+          {
+            "type": "tone",
+            "syllable": "er3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u00-l4",
+    "title": "Spelling rules and where the tone mark goes",
+    "summary": "A few rules explain the pinyin spellings that look odd at first.",
+    "sections": [
+      {
+        "teach": {
+          "title": "y and w",
+          "body": [
+            "When i, u or ü starts a syllable with no consonant before it, pinyin writes y or w: i → yi, u → wu, ü → yu.",
+            "Longer ones follow suit: ie → ye, uo → wo, üe → yue."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "yi1"
+            },
+            {
+              "syllable": "wu1"
+            },
+            {
+              "syllable": "yu2"
+            },
+            {
+              "syllable": "yue4"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "How is the vowel i written on its own?",
+            "options": [
+              "i",
+              "yi",
+              "y"
+            ],
+            "answer": 1,
+            "explain": "On its own, i is written yi (as in yī, one)."
+          },
+          {
+            "type": "choose",
+            "prompt": "How is ü written on its own?",
+            "options": [
+              "ü",
+              "yu",
+              "wu"
+            ],
+            "answer": 1,
+            "explain": "On its own, ü is written yu (as in yú, fish). wu is the u sound."
+          },
+          {
+            "type": "choose",
+            "prompt": "How is üe written with nothing in front (as in “moon”)?",
+            "options": [
+              "üe",
+              "ye",
+              "yue"
+            ],
+            "answer": 2,
+            "explain": "yuè (moon). ye is a different sound, ie."
+          },
+          {
+            "type": "type",
+            "syllable": "yi4"
+          },
+          {
+            "type": "type",
+            "syllable": "wu3"
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "ü after j, q, x",
+          "body": [
+            "After j, q and x, ü loses its dots: ju, qu, xu. It's still the ü sound, because j, q and x never go with a plain u.",
+            "After n and l the dots stay, because nu/nü and lu/lü are different syllables."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "syllable": "ju1"
+            },
+            {
+              "syllable": "qu1"
+            },
+            {
+              "syllable": "xu1"
+            },
+            {
+              "syllable": "nv3"
+            },
+            {
+              "syllable": "lv3"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "How is j + ü written?",
+            "options": [
+              "jü",
+              "ju",
+              "jiu"
+            ],
+            "answer": 1,
+            "explain": "ju: after j the dots are left off, but it's still ü."
+          },
+          {
+            "type": "choose",
+            "prompt": "Which did you hear?",
+            "options": [
+              "lǔ",
+              "lǚ"
+            ],
+            "answer": 1,
+            "explain": "lǚ, with ü. After l the dots stay, because lǔ is a different syllable.",
+            "audio": {
+              "syllable": "lv3"
+            }
+          },
+          {
+            "type": "type",
+            "syllable": "ju1"
+          },
+          {
+            "type": "type",
+            "syllable": "xu1"
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "iu, ui, un",
+          "body": [
+            "Three spellings are shortened when a consonant comes first: iou → iu, uei → ui, uen → un.",
+            "The full sound is still there: liù (six) has a little o in it, duì (correct) a little e."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w113"
+            },
+            {
+              "word": "w044"
+            },
+            {
+              "word": "w095"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "l + iou is written…",
+            "options": [
+              "liou",
+              "liu",
+              "lio"
+            ],
+            "answer": 1,
+            "explain": "liu, as in liù (six)."
+          },
+          {
+            "type": "choose",
+            "prompt": "d + uei is written…",
+            "options": [
+              "duei",
+              "dui",
+              "due"
+            ],
+            "answer": 1,
+            "explain": "dui, as in duì (correct)."
+          },
+          {
+            "type": "choose",
+            "prompt": "j + iou is written…",
+            "options": [
+              "jiou",
+              "jiu",
+              "jü"
+            ],
+            "answer": 1,
+            "explain": "jiu, as in jiǔ (nine)."
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Where the tone mark goes",
+          "body": [
+            "If there's an a or an e, it takes the mark: hǎo, xiè.",
+            "In ou, the o takes it: gǒu.",
+            "Otherwise the last vowel takes it: guó, xiū, duì."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w071"
+            },
+            {
+              "word": "w064"
+            },
+            {
+              "word": "w066"
+            },
+            {
+              "word": "w044"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "h-a-o with a 3rd tone is written…",
+            "options": [
+              "hǎo",
+              "haǒ"
+            ],
+            "answer": 0,
+            "explain": "hǎo: a takes the mark."
+          },
+          {
+            "type": "choose",
+            "prompt": "x-i-u with a 1st tone is written…",
+            "options": [
+              "xīu",
+              "xiū"
+            ],
+            "answer": 1,
+            "explain": "xiū: no a, e or ou, so the last vowel (u) takes it."
+          },
+          {
+            "type": "choose",
+            "prompt": "g-u-o with a 2nd tone is written…",
+            "options": [
+              "gúo",
+              "guó"
+            ],
+            "answer": 1,
+            "explain": "guó: the last vowel (o) takes it."
+          },
+          {
+            "type": "choose",
+            "prompt": "d-u-i with a 4th tone is written…",
+            "options": [
+              "dùi",
+              "duì"
+            ],
+            "answer": 1,
+            "explain": "duì: the last vowel (i) takes it."
+          },
+          {
+            "type": "choose",
+            "prompt": "x-i-e with a 3rd tone is written…",
+            "options": [
+              "xǐe",
+              "xiě"
+            ],
+            "answer": 1,
+            "explain": "xiě: e takes the mark."
+          },
+          {
+            "type": "type",
+            "syllable": "lao3"
+          },
+          {
+            "type": "type",
+            "syllable": "guo2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u00-l5",
+    "title": "Tone changes",
+    "summary": "Three small rules change tones in speech: 3rd + 3rd, 不 and 一.",
+    "sections": [
+      {
+        "teach": {
+          "title": "3rd tone + 3rd tone",
+          "body": [
+            "When two 3rd tones come together, the first is said as a 2nd tone. Pinyin still writes both as 3rd.",
+            "nǐ hǎo is said ní hǎo. In a row of 3rd tones, all but the last change: wǒ hěn hǎo is said wó hén hǎo."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w147"
+            },
+            {
+              "word": "w102"
+            },
+            {
+              "word": "w193"
+            },
+            {
+              "phrase": "p010"
+            },
+            {
+              "phrase": "p011"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "Written nǐ hǎo. How is it said?",
+            "options": [
+              "nǐ hǎo",
+              "ní hǎo"
+            ],
+            "answer": 1,
+            "explain": "Two 3rd tones: the first becomes 2nd, so ní hǎo.",
+            "audio": {
+              "word": "w147"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "Written kěyǐ. How is it said?",
+            "options": [
+              "kěyǐ",
+              "kéyǐ"
+            ],
+            "answer": 1,
+            "explain": "Two 3rd tones: kéyǐ.",
+            "audio": {
+              "word": "w102"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "Written shuǐguǒ. How is it said?",
+            "options": [
+              "shuǐguǒ",
+              "shuíguǒ"
+            ],
+            "answer": 1,
+            "explain": "Two 3rd tones: shuíguǒ.",
+            "audio": {
+              "word": "w193"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "Written hǎochī (tasty). Does hǎo change?",
+            "options": [
+              "Yes: háochī",
+              "No: hǎochī"
+            ],
+            "answer": 1,
+            "explain": "Only a 3rd tone before another 3rd tone changes. chī is 1st tone.",
+            "audio": {
+              "word": "w072"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "Written hěn hǎo. How is it said?",
+            "options": [
+              "hěn hǎo",
+              "hén hǎo"
+            ],
+            "answer": 1,
+            "explain": "Two 3rd tones: hén hǎo.",
+            "audio": {
+              "phrase": "p010"
+            }
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "不 bù",
+          "body": [
+            "不 (not) is 4th tone, bù. Before another 4th tone it becomes 2nd: bú shì, bú qù.",
+            "Before 1st, 2nd and 3rd tones it stays bù: bù chī, bù máng, bù hǎo. Unlike the 3rd-tone change, pinyin shows this one."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "phrase": "p001"
+            },
+            {
+              "phrase": "p002"
+            },
+            {
+              "phrase": "p005"
+            },
+            {
+              "phrase": "p004"
+            },
+            {
+              "phrase": "p003"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "How is 不 said here?",
+            "options": [
+              "bù",
+              "bú"
+            ],
+            "answer": 1,
+            "explain": "shì is 4th tone, so 不 becomes bú: bú shì.",
+            "audio": {
+              "phrase": "p001"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 不 said here?",
+            "options": [
+              "bù",
+              "bú"
+            ],
+            "answer": 0,
+            "explain": "hǎo is 3rd tone, so 不 stays bù: bù hǎo.",
+            "audio": {
+              "phrase": "p003"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 不 said here?",
+            "options": [
+              "bù",
+              "bú"
+            ],
+            "answer": 1,
+            "explain": "qù is 4th tone: bú qù.",
+            "audio": {
+              "phrase": "p002"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 不 said here?",
+            "options": [
+              "bù",
+              "bú"
+            ],
+            "answer": 0,
+            "explain": "máng is 2nd tone: bù máng.",
+            "audio": {
+              "phrase": "p004"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 不 said in 不要 (don't)?",
+            "options": [
+              "bù",
+              "bú"
+            ],
+            "answer": 1,
+            "explain": "yào is 4th tone: búyào.",
+            "audio": {
+              "word": "w015"
+            }
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "一 yī",
+          "body": [
+            "一 (one) is yī on its own, when counting, and at the end of a word.",
+            "Before a 4th tone it becomes yí: yíxià, yí ge. Before 1st, 2nd and 3rd tones it becomes yì: yì tiān, yì nián, yì běn."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w254"
+            },
+            {
+              "word": "w259"
+            },
+            {
+              "phrase": "p006"
+            },
+            {
+              "phrase": "p007"
+            },
+            {
+              "phrase": "p008"
+            },
+            {
+              "phrase": "p009"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "choose",
+            "prompt": "How is 一 said in 一下?",
+            "options": [
+              "yī",
+              "yí",
+              "yì"
+            ],
+            "answer": 1,
+            "explain": "xià is 4th tone, so yí: yíxià.",
+            "audio": {
+              "word": "w259"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 一 said here?",
+            "options": [
+              "yī",
+              "yí",
+              "yì"
+            ],
+            "answer": 2,
+            "explain": "tiān is 1st tone, so yì: yì tiān.",
+            "audio": {
+              "phrase": "p007"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 一 said here?",
+            "options": [
+              "yī",
+              "yí",
+              "yì"
+            ],
+            "answer": 1,
+            "explain": "个 is gè underneath (4th tone), so yí: yí ge.",
+            "audio": {
+              "phrase": "p006"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 一 said here?",
+            "options": [
+              "yī",
+              "yí",
+              "yì"
+            ],
+            "answer": 2,
+            "explain": "běn is 3rd tone, so yì: yì běn.",
+            "audio": {
+              "phrase": "p009"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 一 said on its own?",
+            "options": [
+              "yī",
+              "yí",
+              "yì"
+            ],
+            "answer": 0,
+            "explain": "On its own (or counting), 一 keeps its 1st tone: yī.",
+            "audio": {
+              "word": "w254"
+            }
+          },
+          {
+            "type": "choose",
+            "prompt": "How is 一 said in 一些 (some)?",
+            "options": [
+              "yī",
+              "yí",
+              "yì"
+            ],
+            "answer": 2,
+            "explain": "xiē is 1st tone, so yì: yìxiē.",
+            "audio": {
+              "word": "w262"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "u00-l6",
+    "title": "Two-syllable tone pairs",
+    "summary": "Most words have two syllables. Learn to hear all 20 tone combinations, each with an HSK 1 word.",
+    "sections": [
+      {
+        "teach": {
+          "title": "Starting with tone 1",
+          "body": [
+            "Listen to how each pair of tones sounds together. Every example is a word you'll learn."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w054"
+            },
+            {
+              "word": "w289"
+            },
+            {
+              "word": "w291"
+            },
+            {
+              "word": "w208"
+            },
+            {
+              "word": "w114"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pair",
+            "word": "w054",
+            "tones": [
+              1,
+              1
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w289",
+            "tones": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w291",
+            "tones": [
+              1,
+              3
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w208",
+            "tones": [
+              1,
+              4
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w114",
+            "tones": [
+              1,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Starting with tone 2",
+          "body": [
+            "Tone 2 rises; listen to where the second syllable goes next."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w129"
+            },
+            {
+              "word": "w249"
+            },
+            {
+              "word": "w122"
+            },
+            {
+              "word": "w250"
+            },
+            {
+              "word": "w130"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pair",
+            "word": "w129",
+            "tones": [
+              2,
+              1
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w249",
+            "tones": [
+              2,
+              2
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w159",
+            "tones": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w250",
+            "tones": [
+              2,
+              4
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w156",
+            "tones": [
+              2,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Starting with tone 3",
+          "body": [
+            "Before another tone, a 3rd tone usually just stays low. Remember: 3rd + 3rd is said as 2nd + 3rd, as in 你好 ní hǎo."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w189"
+            },
+            {
+              "word": "w161"
+            },
+            {
+              "word": "w147"
+            },
+            {
+              "word": "w216"
+            },
+            {
+              "word": "w092"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pair",
+            "word": "w107",
+            "tones": [
+              3,
+              1
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w153",
+            "tones": [
+              3,
+              2
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w224",
+            "tones": [
+              3,
+              4
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w225",
+            "tones": [
+              3,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Starting with tone 4",
+          "body": [
+            "Tone 4 falls; listen for what the second syllable does."
+          ],
+          "contours": false,
+          "items": [
+            {
+              "word": "w176"
+            },
+            {
+              "word": "w179"
+            },
+            {
+              "word": "w069"
+            },
+            {
+              "word": "w272"
+            },
+            {
+              "word": "w003"
+            }
+          ]
+        },
+        "drills": [
+          {
+            "type": "pair",
+            "word": "w126",
+            "tones": [
+              4,
+              1
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w220",
+            "tones": [
+              4,
+              2
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w227",
+            "tones": [
+              4,
+              3
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w037",
+            "tones": [
+              4,
+              4
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w241",
+            "tones": [
+              4,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "teach": {
+          "title": "Mixed pairs",
+          "body": [
+            "Any pair now. Listen to the whole word, then pick its two tones."
+          ],
+          "contours": false,
+          "items": []
+        },
+        "drills": [
+          {
+            "type": "pair",
+            "word": "w094",
+            "tones": [
+              1,
+              1
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w186",
+            "tones": [
+              2,
+              1
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w274",
+            "tones": [
+              3,
+              4
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w211",
+            "tones": [
+              2,
+              2
+            ]
+          },
+          {
+            "type": "pair",
+            "word": "w217",
+            "tones": [
+              3,
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

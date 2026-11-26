@@ -1,0 +1,245 @@
+[
+  {
+    "id": "p001",
+    "hanzi": "不是",
+    "pinyin": "bú shì",
+    "syllables": [
+      "bú",
+      "shì"
+    ],
+    "gloss": "is not",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p001.xiaoxiao.normal.mp3",
+        "slow": "phrases/p001.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p001.yunxi.normal.mp3",
+        "slow": "phrases/p001.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p002",
+    "hanzi": "不去",
+    "pinyin": "bú qù",
+    "syllables": [
+      "bú",
+      "qù"
+    ],
+    "gloss": "not go",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p002.xiaoxiao.normal.mp3",
+        "slow": "phrases/p002.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p002.yunxi.normal.mp3",
+        "slow": "phrases/p002.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p003",
+    "hanzi": "不好",
+    "pinyin": "bù hǎo",
+    "syllables": [
+      "bù",
+      "hǎo"
+    ],
+    "gloss": "not good",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p003.xiaoxiao.normal.mp3",
+        "slow": "phrases/p003.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p003.yunxi.normal.mp3",
+        "slow": "phrases/p003.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p004",
+    "hanzi": "不忙",
+    "pinyin": "bù máng",
+    "syllables": [
+      "bù",
+      "máng"
+    ],
+    "gloss": "not busy",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p004.xiaoxiao.normal.mp3",
+        "slow": "phrases/p004.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p004.yunxi.normal.mp3",
+        "slow": "phrases/p004.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p005",
+    "hanzi": "不吃",
+    "pinyin": "bù chī",
+    "syllables": [
+      "bù",
+      "chī"
+    ],
+    "gloss": "don't eat",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p005.xiaoxiao.normal.mp3",
+        "slow": "phrases/p005.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p005.yunxi.normal.mp3",
+        "slow": "phrases/p005.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p006",
+    "hanzi": "一个",
+    "pinyin": "yí ge",
+    "syllables": [
+      "yí",
+      "ge"
+    ],
+    "gloss": "one (of something)",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p006.xiaoxiao.normal.mp3",
+        "slow": "phrases/p006.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p006.yunxi.normal.mp3",
+        "slow": "phrases/p006.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p007",
+    "hanzi": "一天",
+    "pinyin": "yì tiān",
+    "syllables": [
+      "yì",
+      "tiān"
+    ],
+    "gloss": "one day",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p007.xiaoxiao.normal.mp3",
+        "slow": "phrases/p007.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p007.yunxi.normal.mp3",
+        "slow": "phrases/p007.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p008",
+    "hanzi": "一年",
+    "pinyin": "yì nián",
+    "syllables": [
+      "yì",
+      "nián"
+    ],
+    "gloss": "one year",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p008.xiaoxiao.normal.mp3",
+        "slow": "phrases/p008.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p008.yunxi.normal.mp3",
+        "slow": "phrases/p008.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p009",
+    "hanzi": "一本",
+    "pinyin": "yì běn",
+    "syllables": [
+      "yì",
+      "běn"
+    ],
+    "gloss": "one (book)",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p009.xiaoxiao.normal.mp3",
+        "slow": "phrases/p009.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p009.yunxi.normal.mp3",
+        "slow": "phrases/p009.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p010",
+    "hanzi": "很好",
+    "pinyin": "hěn hǎo",
+    "syllables": [
+      "hěn",
+      "hǎo"
+    ],
+    "gloss": "very good",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p010.xiaoxiao.normal.mp3",
+        "slow": "phrases/p010.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p010.yunxi.normal.mp3",
+        "slow": "phrases/p010.yunxi.slow.mp3"
+      }
+    }
+  },
+  {
+    "id": "p011",
+    "hanzi": "我很好",
+    "pinyin": "wǒ hěn hǎo",
+    "syllables": [
+      "wǒ",
+      "hěn",
+      "hǎo"
+    ],
+    "gloss": "I'm fine",
+    "audio": {
+      "a": {
+        "voice": "xiaoxiao",
+        "normal": "phrases/p011.xiaoxiao.normal.mp3",
+        "slow": "phrases/p011.xiaoxiao.slow.mp3"
+      },
+      "b": {
+        "voice": "yunxi",
+        "normal": "phrases/p011.yunxi.normal.mp3",
+        "slow": "phrases/p011.yunxi.slow.mp3"
+      }
+    }
+  }
+]

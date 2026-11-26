@@ -1,0 +1,307 @@
+{
+  "initials": {
+    "b": {
+      "like": "like the p in “spin” (no puff of air)",
+      "tip": "Not a puffed p: say “spin”, then drop the s."
+    },
+    "p": {
+      "like": "like the p in “pin”, with a big puff",
+      "tip": "A tissue held at your lips should flick."
+    },
+    "m": {
+      "like": "like the m in “may”",
+      "tip": ""
+    },
+    "f": {
+      "like": "like the f in “fan”",
+      "tip": ""
+    },
+    "d": {
+      "like": "like the t in “stop” (no puff)",
+      "tip": "Say “stop”, then drop the s."
+    },
+    "t": {
+      "like": "like the t in “top”, with a big puff",
+      "tip": "Exaggerate the air."
+    },
+    "n": {
+      "like": "like the n in “no”",
+      "tip": ""
+    },
+    "l": {
+      "like": "like the l in “lay”",
+      "tip": ""
+    },
+    "g": {
+      "like": "like the k in “skin” (no puff)",
+      "tip": "Never the j sound of “gem”."
+    },
+    "k": {
+      "like": "like the k in “kite”, with a big puff",
+      "tip": ""
+    },
+    "h": {
+      "like": "like the h in “hat”, but raspier",
+      "tip": "Raise the back of your tongue, a little like the ch in Scottish “loch”."
+    },
+    "j": {
+      "like": "like the j in “jeep”, smiling",
+      "tip": "Tongue tip down behind your bottom teeth, lips spread. Not curled (that's zh)."
+    },
+    "q": {
+      "like": "like the ch in “cheese”, smiling, with a puff",
+      "tip": "Never “kw” as in “queen”. Tongue tip down behind your bottom teeth."
+    },
+    "x": {
+      "like": "like the sh in “sheet”, said with a smile",
+      "tip": "Between s and sh, tongue tip behind your bottom teeth. Never “ks” or “z”."
+    },
+    "zh": {
+      "like": "like the j in “judge”, tongue pulled back",
+      "tip": "No puff. Tongue a little further back than English j; tip up."
+    },
+    "ch": {
+      "like": "like the ch in “church”, tongue pulled back, with a puff",
+      "tip": "Tip up and back (q is tip down and smiling)."
+    },
+    "sh": {
+      "like": "like the sh in “shop”, tongue pulled back",
+      "tip": "Don't round your lips; tongue further back than English sh."
+    },
+    "r": {
+      "like": "like the s in “measure”, tongue tip curled back",
+      "tip": "Somewhere between English r and the s in “pleasure”. Lips flat, a light buzz; don't roll it."
+    },
+    "z": {
+      "like": "like the ds in “reads”",
+      "tip": "Not the z of “zoo”: start from “ds”."
+    },
+    "c": {
+      "like": "like the ts in “cats”, with a puff",
+      "tip": "Never k or s: think “it's hot”."
+    },
+    "s": {
+      "like": "like the s in “see”",
+      "tip": ""
+    }
+  },
+  "finals": {
+    "a": {
+      "like": "“ah”, like an Aussie “car” without the r",
+      "tip": "Drop your jaw; not the a in “cat”."
+    },
+    "o": {
+      "like": "a tiny w, then “or” as in “wore”: bo ≈ “bwor”",
+      "tip": "Round your lips; not the “oh” of “boat”."
+    },
+    "e": {
+      "like": "“uh”, like “her” without the r, from the back of the throat",
+      "tip": "Relaxed lips. Never the e in “bed”."
+    },
+    "i": {
+      "like": "like the ee in “bee”",
+      "tip": ""
+    },
+    "u": {
+      "like": "like the oo in “shoot”, lips pushed well forward",
+      "tip": "An Aussie “oo” sits too far forward and drifts towards ü: pull your tongue back and pout hard."
+    },
+    "ü": {
+      "like": "say “ee”, then round your lips without moving your tongue",
+      "tip": "An Aussie “ew” is a fair start. Not “oo”, not “you”."
+    },
+    "ai": {
+      "like": "like “eye”",
+      "tip": ""
+    },
+    "ei": {
+      "like": "like the “ay” in “eight”, starting from the e in “bed”",
+      "tip": "An Aussie “ay” starts too open and sounds like ai."
+    },
+    "ao": {
+      "like": "like the “ow” in “how”: “ah” sliding to “oo”",
+      "tip": "Start on a wide “ah”."
+    },
+    "ou": {
+      "like": "like “oh”, with rounded lips: “or” sliding to “oo”",
+      "tip": "An Aussie “oh” starts with flat lips: round them from the start."
+    },
+    "an": {
+      "like": "“ahn”, as in “salon”",
+      "tip": "Not an Aussie “can” (nearly “ken”): open “ah”."
+    },
+    "en": {
+      "like": "like the “un” in “under”",
+      "tip": "A lazy “uhn”, not the en in “Ben”."
+    },
+    "ang": {
+      "like": "“ahng”: “ah” with a back “ng”",
+      "tip": ""
+    },
+    "eng": {
+      "like": "like the “ung” in “lung”",
+      "tip": "Keep a lazy “uh”; don't let it become ang."
+    },
+    "ong": {
+      "like": "“oong”: the oo in “book”, then ng",
+      "tip": "Not the “ong” of “song”: round your lips to “oo”."
+    },
+    "er": {
+      "like": "say “uh” and curl your tongue tip back as you say it",
+      "tip": "Like an American “are”. Your Aussie “ah” needs the curl."
+    },
+    "ia": {
+      "like": "“yah”",
+      "tip": ""
+    },
+    "ie": {
+      "like": "like the “ye” in “yes”",
+      "tip": "One quick glide, not “ee-eh” in two beats."
+    },
+    "iao": {
+      "like": "like the “yow” in “meow”",
+      "tip": "Start on a wide “ah”."
+    },
+    "iou": {
+      "like": "“yoh”: liù ≈ “lyoh”",
+      "tip": "iu is short for iou: there's a little o in it."
+    },
+    "ian": {
+      "like": "like “yen” (the money)",
+      "tip": "Not “yan”: the a here sounds like e."
+    },
+    "in": {
+      "like": "like the “een” in “keen”, kept short",
+      "tip": ""
+    },
+    "iang": {
+      "like": "“yahng”",
+      "tip": "Don't mix it with ian (“yen”)."
+    },
+    "ing": {
+      "like": "like the “ing” in “sing”",
+      "tip": ""
+    },
+    "iong": {
+      "like": "“yoong”, with the oo in “book”",
+      "tip": "Round your lips."
+    },
+    "ua": {
+      "like": "“wah”, as in “suave”",
+      "tip": ""
+    },
+    "uo": {
+      "like": "like “wore”, with the r silent",
+      "tip": "One glide, not “woo-oh”."
+    },
+    "uai": {
+      "like": "like “why”",
+      "tip": ""
+    },
+    "uei": {
+      "like": "like “way”: guì ≈ “gway”",
+      "tip": "ui is short for uei: there's a little e in it. Not “gwee”."
+    },
+    "uan": {
+      "like": "“wahn”",
+      "tip": "Open “ah”, not the rounded Aussie “want”."
+    },
+    "uen": {
+      "like": "like “won”: dùn ≈ “dwun”",
+      "tip": "un is short for uen. Not “doon”."
+    },
+    "uang": {
+      "like": "“wahng”",
+      "tip": ""
+    },
+    "ueng": {
+      "like": "“wuhng”",
+      "tip": ""
+    },
+    "üe": {
+      "like": "ü then “eh”: xué ≈ “shweh” with your lips pouted",
+      "tip": "Start on ü, not on “oo”."
+    },
+    "üan": {
+      "like": "ü then “en”: yuán ≈ “ywen”",
+      "tip": "It's ü, and the a sounds like e. Not “wahn”."
+    },
+    "ün": {
+      "like": "“een” with your lips pouted",
+      "tip": "Tongue as for “ee”, lips as for “oo”. Not “yoon”."
+    },
+    "i-z": {
+      "like": "no “ee”: just hold the buzz of the sound before it (zì ≈ “dzz”, sì ≈ “sss”)",
+      "tip": "Don't move your tongue after the z, c or s."
+    },
+    "i-zh": {
+      "like": "hold the curled sound and hum through it (shì ≈ “shrr”)",
+      "tip": "Not “she”: your tongue stays curled back."
+    },
+    "r": {
+      "like": "curl your tongue tip back at the end",
+      "tip": "The -r ending (儿) of Beijing speech."
+    }
+  },
+  "tones": {
+    "0": "light and short, no tone of its own",
+    "1": "high and level, like holding a note",
+    "2": "rising, like asking “What?”",
+    "3": "low; on its own it dips and comes back up a little, in a sentence it just stays low",
+    "4": "falling sharply, like a firm “No!”"
+  },
+  "traps": [
+    {
+      "spelling": "iu",
+      "say": "iou: liù rhymes with “yo” (“lyoh”)"
+    },
+    {
+      "spelling": "ui",
+      "say": "uei: guì rhymes with “way” (“gway”)"
+    },
+    {
+      "spelling": "un",
+      "say": "uen (dùn ≈ “dwun”), but ün after j, q, x and y (jūn, yún)"
+    },
+    {
+      "spelling": "u after j, q, x, y",
+      "say": "ü: jù, qù, xué, yuǎn. The dots stay only after n and l (nǚ, lǜ)."
+    },
+    {
+      "spelling": "y and w",
+      "say": "only spelling: yī = i, wǔ = u, yú = ü, yǒu = iou, wèi = uei"
+    },
+    {
+      "spelling": "e",
+      "say": "“uh” on its own (hē); “ay” in ei; “eh” in ie and üe; a lazy “uh” in en and eng. Never the e in “bed”."
+    },
+    {
+      "spelling": "ian, üan",
+      "say": "the a sounds like e: “yen”, “ywen”. So ian isn't iang."
+    },
+    {
+      "spelling": "i",
+      "say": "“ee” (nǐ); just a buzz after z, c, s (sì); a curled hum after zh, ch, sh, r (shì isn't “she”)"
+    },
+    {
+      "spelling": "o after b, p, m, f",
+      "say": "uo: bō rhymes with luó"
+    },
+    {
+      "spelling": "ong",
+      "say": "“oong”, never the “ong” of “song”"
+    },
+    {
+      "spelling": "b d g j zh z / p t k q ch c",
+      "say": "the difference is the puff of air, not the buzz"
+    },
+    {
+      "spelling": "-n / -ng",
+      "say": "-n ends with the tongue tip behind the top teeth; -ng with the back of the tongue up"
+    },
+    {
+      "spelling": "j q x / zh ch sh",
+      "say": "tongue tip down and smiling, or tongue pulled back (xiè vs shéi)"
+    }
+  ]
+}

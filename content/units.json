@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "u00",
+    "number": 0,
+    "title": "Pinyin & tones",
+    "grammarIds": [],
+    "lessons": [
+      {
+        "id": "u00-l1",
+        "unitId": "u00",
+        "title": "The four tones and the neutral tone",
+        "wordIds": [],
+        "review": false
+      },
+      {
+        "id": "u00-l2",
+        "unitId": "u00",
+        "title": "Initials (zh/z, ch/c, sh/s, j/q/x, r)",
+        "wordIds": [],
+        "review": false
+      },
+      {
+        "id": "u00-l3",
+        "unitId": "u00",
+        "title": "Finals (-n/-ng and ü)",
+        "wordIds": [],
+        "review": false
+      },
+      {
+        "id": "u00-l4",
+        "unitId": "u00",
+        "title": "Spelling rules and where the tone mark goes",
+        "wordIds": [],
+        "review": false
+      },
+      {
+        "id": "u00-l5",
+        "unitId": "u00",
+        "title": "Tone changes (3rd + 3rd, 不, 一)",
+        "wordIds": [],
+        "review": false
+      },
+      {
+        "id": "u00-l6",
+        "unitId": "u00",
+        "title": "Two-syllable tone pairs",
+        "wordIds": [],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u01",
+    "number": 1,
+    "title": "Hello & thank you",
+    "grammarIds": [
+      "g2.3.2-1",
+      "g1.2-1",
+      "g5.1.1-2",
+      "g5.1.1-4",
+      "g5.2.1-1"
+    ],
+    "lessons": [
+      {
+        "id": "u01-l1",
+        "unitId": "u01",
+        "title": "Saying hello",
+        "wordIds": [
+          "w147",
+          "w146",
+          "w221",
+          "w071",
+          "w150",
+          "w272",
+          "w079"
+        ],
+        "review": false
+      },
+      {
+        "id": "u01-l2",
+        "unitId": "u01",
+        "title": "Thanks and sorry",
+        "wordIds": [
+          "w241",
+          "w014",
+          "w045",
+          "w120",
+          "w121",
+          "w165"
+        ],
+        "review": false
+      },
+      {
+        "id": "u01-l3",
+        "unitId": "u01",
+        "title": "He, she, we, everyone",
+        "wordIds": [
+          "w200",
+          "w202",
+          "w124",
+          "w222",
+          "w148",
+          "w203",
+          "w205",
+          "w026"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u02",
+    "number": 2,
+    "title": "Who are you?",
+    "grammarIds": [
+      "g1.1-1",
+      "g2.3.1-1",
+      "g2.3.3-1",
+      "g2.6.6-1",
+      "g2.9.3-1",
+      "g3.1.1-2",
+      "g4.1-1",
+      "g4.2-2",
+      "g4.3-1",
+      "g5.1.1-1",
+      "g5.2.2-1",
+      "g5.2.2-2",
+      "g5.3.1-1"
+    ],
+    "lessons": [
+      {
+        "id": "u02-l1",
+        "unitId": "u02",
+        "title": "What's your name?",
+        "wordIds": [
+          "w091",
+          "w182",
+          "w130",
+          "w166",
+          "w144"
+        ],
+        "review": false
+      },
+      {
+        "id": "u02-l2",
+        "unitId": "u02",
+        "title": "Are you a student?",
+        "wordIds": [
+          "w188",
+          "w013",
+          "w115",
+          "w107",
+          "w248",
+          "w211"
+        ],
+        "review": false
+      },
+      {
+        "id": "u02-l3",
+        "unitId": "u02",
+        "title": "Where are you from?",
+        "wordIds": [
+          "w289",
+          "w066",
+          "w170",
+          "w131",
+          "w181",
+          "w156"
+        ],
+        "review": false
+      },
+      {
+        "id": "u02-l4",
+        "unitId": "u02",
+        "title": "Nice to meet you",
+        "wordIds": [
+          "w171",
+          "w057",
+          "w234",
+          "w279",
+          "w136"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u03",
+    "number": 3,
+    "title": "Numbers & age",
+    "grammarIds": [
+      "g2.3.1-1",
+      "g2.4-1",
+      "g2.5.1-1",
+      "g2.5.2-1",
+      "g3.1.2-1",
+      "g4.2-1",
+      "g5.1.1-3"
+    ],
+    "lessons": [
+      {
+        "id": "u03-l1",
+        "unitId": "u03",
+        "title": "Zero to six",
+        "wordIds": [
+          "w254",
+          "w049",
+          "w173",
+          "w198",
+          "w223",
+          "w113",
+          "w112"
+        ],
+        "review": false
+      },
+      {
+        "id": "u03-l2",
+        "unitId": "u03",
+        "title": "Seven to a thousand",
+        "wordIds": [
+          "w160",
+          "w002",
+          "w095",
+          "w184",
+          "w006",
+          "w162",
+          "w085"
+        ],
+        "review": false
+      },
+      {
+        "id": "u03-l3",
+        "unitId": "u03",
+        "title": "How old are you?",
+        "wordIds": [
+          "w111",
+          "w060",
+          "w047",
+          "w046",
+          "w199",
+          "w093",
+          "w258"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u04",
+    "number": 4,
+    "title": "Family & pets",
+    "grammarIds": [
+      "g2.3.2-1",
+      "g2.5.1-1",
+      "g2.6.2-1",
+      "g2.6.5-1",
+      "g2.6.6-1",
+      "g2.7.2-1",
+      "g2.8.1-1",
+      "g2.9.1-1",
+      "g3.1.1-1",
+      "g4.4-1",
+      "g5.3.2-1"
+    ],
+    "lessons": [
+      {
+        "id": "u04-l1",
+        "unitId": "u04",
+        "title": "My family",
+        "wordIds": [
+          "w086",
+          "w003",
+          "w114",
+          "w059",
+          "w092",
+          "w030"
+        ],
+        "review": false
+      },
+      {
+        "id": "u04-l2",
+        "unitId": "u04",
+        "title": "How many people?",
+        "wordIds": [
+          "w032",
+          "w123",
+          "w263",
+          "w122",
+          "w078",
+          "w104"
+        ],
+        "review": false
+      },
+      {
+        "id": "u04-l3",
+        "unitId": "u04",
+        "title": "Children",
+        "wordIds": [
+          "w048",
+          "w153",
+          "w068",
+          "w087",
+          "w142",
+          "w152",
+          "w041",
+          "w253"
+        ],
+        "review": false
+      },
+      {
+        "id": "u04-l4",
+        "unitId": "u04",
+        "title": "Pets",
+        "wordIds": [
+          "w064",
+          "w119",
+          "w287",
+          "w201",
+          "w204"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u05",
+    "number": 5,
+    "title": "Dates & days",
+    "grammarIds": [
+      "g1.1-1",
+      "g2.5.2-1",
+      "g7.1-2",
+      "g7.2-1"
+    ],
+    "lessons": [
+      {
+        "id": "u05-l1",
+        "unitId": "u05",
+        "title": "What's the date?",
+        "wordIds": [
+          "w149",
+          "w269",
+          "w172",
+          "w076",
+          "w094",
+          "w129",
+          "w297"
+        ],
+        "review": false
+      },
+      {
+        "id": "u05-l2",
+        "unitId": "u05",
+        "title": "Days of the week",
+        "wordIds": [
+          "w243",
+          "w244",
+          "w245",
+          "w207",
+          "w031",
+          "w185"
+        ],
+        "review": false
+      },
+      {
+        "id": "u05-l3",
+        "unitId": "u05",
+        "title": "Years and times of day",
+        "wordIds": [
+          "w168",
+          "w128",
+          "w275",
+          "w178",
+          "w291",
+          "w230",
+          "w217"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u06",
+    "number": 6,
+    "title": "Time & daily routine",
+    "grammarIds": [
+      "g2.2.2-1",
+      "g2.5.2-1",
+      "g2.7.1-1",
+      "g3.1.2-2",
+      "g4.5-1",
+      "g7.2-2"
+    ],
+    "lessons": [
+      {
+        "id": "u06-l1",
+        "unitId": "u06",
+        "title": "What time is it?",
+        "wordIds": [
+          "w232",
+          "w033",
+          "w055",
+          "w007",
+          "w236",
+          "w056"
+        ],
+        "review": false
+      },
+      {
+        "id": "u06-l2",
+        "unitId": "u06",
+        "title": "My day",
+        "wordIds": [
+          "w161",
+          "w195",
+          "w194",
+          "w273",
+          "w215",
+          "w271"
+        ],
+        "review": false
+      },
+      {
+        "id": "u06-l3",
+        "unitId": "u06",
+        "title": "Going to work",
+        "wordIds": [
+          "w176",
+          "w228",
+          "w063",
+          "w118",
+          "w062",
+          "w167"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u07",
+    "number": 7,
+    "title": "Food & drink",
+    "grammarIds": [
+      "g2.2.1-2",
+      "g2.5.1-2",
+      "g2.9.3-1"
+    ],
+    "lessons": [
+      {
+        "id": "u07-l1",
+        "unitId": "u07",
+        "title": "What would you like?",
+        "wordIds": [
+          "w021",
+          "w077",
+          "w192",
+          "w017",
+          "w233",
+          "w252"
+        ],
+        "review": false
+      },
+      {
+        "id": "u07-l2",
+        "unitId": "u07",
+        "title": "Rice, noodles and dumplings",
+        "wordIds": [
+          "w050",
+          "w125",
+          "w127",
+          "w008",
+          "w090",
+          "w016",
+          "w072"
+        ],
+        "review": false
+      },
+      {
+        "id": "u07-l3",
+        "unitId": "u07",
+        "title": "Bread, eggs and fruit",
+        "wordIds": [
+          "w126",
+          "w084",
+          "w151",
+          "w159",
+          "w193",
+          "w009"
+        ],
+        "review": false
+      },
+      {
+        "id": "u07-l4",
+        "unitId": "u07",
+        "title": "Meals of the day",
+        "wordIds": [
+          "w274",
+          "w224",
+          "w216",
+          "w299",
+          "w300",
+          "w004"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u08",
+    "number": 8,
+    "title": "Shopping: how much?",
+    "grammarIds": [
+      "g2.3.3-1",
+      "g2.5.1-1",
+      "g2.6.1-1",
+      "g5.2.2-3",
+      "g5.2.4-1",
+      "g5.3.5-1",
+      "g7.1-1"
+    ],
+    "lessons": [
+      {
+        "id": "u08-l1",
+        "unitId": "u08",
+        "title": "Buying and selling",
+        "wordIds": [
+          "w116",
+          "w117",
+          "w040",
+          "w164",
+          "w105",
+          "w268"
+        ],
+        "review": false
+      },
+      {
+        "id": "u08-l2",
+        "unitId": "u08",
+        "title": "This one or that one?",
+        "wordIds": [
+          "w281",
+          "w138",
+          "w132",
+          "w061",
+          "w065",
+          "w157"
+        ],
+        "review": false
+      },
+      {
+        "id": "u08-l3",
+        "unitId": "u08",
+        "title": "Shops",
+        "wordIds": [
+          "w206",
+          "w180",
+          "w174",
+          "w019",
+          "w034",
+          "w051"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u09",
+    "number": 9,
+    "title": "Books & choosing things",
+    "grammarIds": [
+      "g2.3.1-1",
+      "g2.3.3-1",
+      "g2.5.1-1",
+      "g2.6.1-1",
+      "g4.4-1",
+      "g5.1.1-2"
+    ],
+    "lessons": [
+      {
+        "id": "u09-l1",
+        "unitId": "u09",
+        "title": "At the bookshop",
+        "wordIds": [
+          "w190",
+          "w010",
+          "w191",
+          "w242",
+          "w025"
+        ],
+        "review": false
+      },
+      {
+        "id": "u09-l2",
+        "unitId": "u09",
+        "title": "These and those",
+        "wordIds": [
+          "w284",
+          "w141",
+          "w135",
+          "w239",
+          "w262"
+        ],
+        "review": false
+      },
+      {
+        "id": "u09-l3",
+        "unitId": "u09",
+        "title": "Pretty, a bit, some",
+        "wordIds": [
+          "w158",
+          "w073",
+          "w265",
+          "w261",
+          "w264",
+          "w266"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u10",
+    "number": 10,
+    "title": "Where is it?",
+    "grammarIds": [
+      "g1.2-1",
+      "g2.1.1-1",
+      "g2.3.1-1",
+      "g2.3.3-1",
+      "g2.7.1-1",
+      "g3.1.2-3",
+      "g5.3.3-1",
+      "g5.3.3-2"
+    ],
+    "lessons": [
+      {
+        "id": "u10-l1",
+        "unitId": "u10",
+        "title": "Here and there",
+        "wordIds": [
+          "w134",
+          "w133",
+          "w283",
+          "w140",
+          "w282",
+          "w139"
+        ],
+        "review": false
+      },
+      {
+        "id": "u10-l2",
+        "unitId": "u10",
+        "title": "On, under, in",
+        "wordIds": [
+          "w175",
+          "w226",
+          "w110",
+          "w212",
+          "w163",
+          "w080"
+        ],
+        "review": false
+      },
+      {
+        "id": "u10-l3",
+        "unitId": "u10",
+        "title": "My room",
+        "wordIds": [
+          "w011",
+          "w280",
+          "w137",
+          "w213",
+          "w295",
+          "w260",
+          "w052",
+          "w294"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u11",
+    "number": 11,
+    "title": "Getting around",
+    "grammarIds": [
+      "g2.3.1-1",
+      "g5.3.4-1",
+      "g5.3.4-2"
+    ],
+    "lessons": [
+      {
+        "id": "u11-l1",
+        "unitId": "u11",
+        "title": "Coming and going",
+        "wordIds": [
+          "w106",
+          "w081",
+          "w029",
+          "w088",
+          "w179"
+        ],
+        "review": false
+      },
+      {
+        "id": "u11-l2",
+        "unitId": "u11",
+        "title": "By car and taxi",
+        "wordIds": [
+          "w298",
+          "w020",
+          "w097",
+          "w098",
+          "w022"
+        ],
+        "review": false
+      },
+      {
+        "id": "u11-l3",
+        "unitId": "u11",
+        "title": "Trains, planes and finding the way",
+        "wordIds": [
+          "w083",
+          "w054",
+          "w276",
+          "w278",
+          "w214"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u12",
+    "number": 12,
+    "title": "Weather & what to wear",
+    "grammarIds": [
+      "g2.3.1-1",
+      "g2.5.1-1",
+      "g2.6.1-1",
+      "g2.9.3-1",
+      "g3.1.1-4",
+      "g5.1.1-4",
+      "g6.1.2-1"
+    ],
+    "lessons": [
+      {
+        "id": "u12-l1",
+        "unitId": "u12",
+        "title": "Hot or cold?",
+        "wordIds": [
+          "w208",
+          "w169",
+          "w109",
+          "w277",
+          "w285"
+        ],
+        "review": false
+      },
+      {
+        "id": "u12-l2",
+        "unitId": "u12",
+        "title": "Rain and snow",
+        "wordIds": [
+          "w227",
+          "w267",
+          "w251",
+          "w108",
+          "w053"
+        ],
+        "review": false
+      },
+      {
+        "id": "u12-l3",
+        "unitId": "u12",
+        "title": "What should I wear?",
+        "wordIds": [
+          "w255",
+          "w089",
+          "w023",
+          "w005",
+          "w096"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u13",
+    "number": 13,
+    "title": "School & study",
+    "grammarIds": [
+      "g2.2.1-1",
+      "g2.2.2-1",
+      "g3.1.1-3"
+    ],
+    "lessons": [
+      {
+        "id": "u13-l1",
+        "unitId": "u13",
+        "title": "Schools",
+        "wordIds": [
+          "w250",
+          "w027",
+          "w028",
+          "w292",
+          "w293",
+          "w237",
+          "w238"
+        ],
+        "review": false
+      },
+      {
+        "id": "u13-l2",
+        "unitId": "u13",
+        "title": "Going to class",
+        "wordIds": [
+          "w247",
+          "w249",
+          "w177",
+          "w229",
+          "w103"
+        ],
+        "review": false
+      },
+      {
+        "id": "u13-l3",
+        "unitId": "u13",
+        "title": "Learning Chinese",
+        "wordIds": [
+          "w069",
+          "w290",
+          "w070",
+          "w296",
+          "w240"
+        ],
+        "review": false
+      },
+      {
+        "id": "u13-l4",
+        "unitId": "u13",
+        "title": "Reading and speaking",
+        "wordIds": [
+          "w042",
+          "w082",
+          "w196",
+          "w197",
+          "w044"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u14",
+    "number": 14,
+    "title": "Free time & likes",
+    "grammarIds": [
+      "g2.2.1-1",
+      "g2.2.1-3",
+      "g2.6.5-1",
+      "g5.4.1-1",
+      "g5.4.2-1",
+      "g5.4.2-2"
+    ],
+    "lessons": [
+      {
+        "id": "u14-l1",
+        "unitId": "u14",
+        "title": "Films and TV",
+        "wordIds": [
+          "w225",
+          "w001",
+          "w099",
+          "w037",
+          "w038",
+          "w039"
+        ],
+        "review": false
+      },
+      {
+        "id": "u14-l2",
+        "unitId": "u14",
+        "title": "Music",
+        "wordIds": [
+          "w209",
+          "w058",
+          "w018",
+          "w074",
+          "w075"
+        ],
+        "review": false
+      },
+      {
+        "id": "u14-l3",
+        "unitId": "u14",
+        "title": "What can you do?",
+        "wordIds": [
+          "w043",
+          "w189",
+          "w067",
+          "w145",
+          "w102"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u15",
+    "number": 15,
+    "title": "Calls & what's happening now",
+    "grammarIds": [
+      "g2.6.3-1",
+      "g2.7.2-1",
+      "g2.9.3-1",
+      "g2.10-1",
+      "g6.1.3-1",
+      "g6.1.3-2",
+      "g6.1.3-3"
+    ],
+    "lessons": [
+      {
+        "id": "u15-l1",
+        "unitId": "u15",
+        "title": "On the phone",
+        "wordIds": [
+          "w035",
+          "w024",
+          "w218",
+          "w231",
+          "w155"
+        ],
+        "review": false
+      },
+      {
+        "id": "u15-l2",
+        "unitId": "u15",
+        "title": "What are you doing?",
+        "wordIds": [
+          "w286",
+          "w187",
+          "w186",
+          "w036",
+          "w288"
+        ],
+        "review": false
+      },
+      {
+        "id": "u15-l3",
+        "unitId": "u15",
+        "title": "Friends and questions",
+        "wordIds": [
+          "w143",
+          "w154",
+          "w235",
+          "w219",
+          "w220"
+        ],
+        "review": false
+      }
+    ]
+  },
+  {
+    "id": "u16",
+    "number": 16,
+    "title": "At the doctor's: what happened + course review",
+    "grammarIds": [
+      "g2.2.2-1",
+      "g2.6.4-1",
+      "g2.6.6-1",
+      "g2.9.2-1",
+      "g4.6.1-1",
+      "g5.2.3-1",
+      "g5.2.4-1",
+      "g6.1.1-1"
+    ],
+    "lessons": [
+      {
+        "id": "u16-l1",
+        "unitId": "u16",
+        "title": "Feeling sick",
+        "wordIds": [
+          "w012",
+          "w183",
+          "w100",
+          "w256",
+          "w257",
+          "w246"
+        ],
+        "review": false
+      },
+      {
+        "id": "u16-l2",
+        "unitId": "u16",
+        "title": "What happened?",
+        "wordIds": [
+          "w101",
+          "w210",
+          "w259",
+          "w270",
+          "w015"
+        ],
+        "review": false
+      },
+      {
+        "id": "u16-l3",
+        "unitId": "u16",
+        "title": "Course review",
+        "wordIds": [],
+        "review": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,2811 @@
+[
+  {
+    "id": "ma1",
+    "pinyin": "mā",
+    "base": "ma",
+    "tone": 1,
+    "say": "妈",
+    "groups": [
+      "toneSets: ma"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ma1.xiaoxiao.normal.mp3",
+        "slow": "syllables/ma1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ma1.xiaoyi.normal.mp3",
+        "slow": "syllables/ma1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ma2",
+    "pinyin": "má",
+    "base": "ma",
+    "tone": 2,
+    "say": "麻",
+    "groups": [
+      "toneSets: ma"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ma2.xiaoxiao.normal.mp3",
+        "slow": "syllables/ma2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ma2.xiaoyi.normal.mp3",
+        "slow": "syllables/ma2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ma3",
+    "pinyin": "mǎ",
+    "base": "ma",
+    "tone": 3,
+    "say": "马",
+    "groups": [
+      "toneSets: ma"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ma3.xiaoxiao.normal.mp3",
+        "slow": "syllables/ma3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ma3.xiaoyi.normal.mp3",
+        "slow": "syllables/ma3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ma4",
+    "pinyin": "mà",
+    "base": "ma",
+    "tone": 4,
+    "say": "骂",
+    "groups": [
+      "toneSets: ma"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ma4.xiaoxiao.normal.mp3",
+        "slow": "syllables/ma4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ma4.xiaoyi.normal.mp3",
+        "slow": "syllables/ma4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ba1",
+    "pinyin": "bā",
+    "base": "ba",
+    "tone": 1,
+    "say": "八",
+    "groups": [
+      "toneSets: ba",
+      "initials: b / p"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ba1.xiaoxiao.normal.mp3",
+        "slow": "syllables/ba1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ba1.xiaoyi.normal.mp3",
+        "slow": "syllables/ba1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ba2",
+    "pinyin": "bá",
+    "base": "ba",
+    "tone": 2,
+    "say": "拔",
+    "groups": [
+      "toneSets: ba"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ba2.xiaoxiao.normal.mp3",
+        "slow": "syllables/ba2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ba2.xiaoyi.normal.mp3",
+        "slow": "syllables/ba2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ba3",
+    "pinyin": "bǎ",
+    "base": "ba",
+    "tone": 3,
+    "say": "靶",
+    "groups": [
+      "toneSets: ba"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ba3.xiaoxiao.normal.mp3",
+        "slow": "syllables/ba3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ba3.xiaoyi.normal.mp3",
+        "slow": "syllables/ba3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ba4",
+    "pinyin": "bà",
+    "base": "ba",
+    "tone": 4,
+    "say": "爸",
+    "groups": [
+      "toneSets: ba"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ba4.xiaoxiao.normal.mp3",
+        "slow": "syllables/ba4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ba4.xiaoyi.normal.mp3",
+        "slow": "syllables/ba4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yi1",
+    "pinyin": "yī",
+    "base": "yi",
+    "tone": 1,
+    "say": "衣",
+    "groups": [
+      "toneSets: yi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yi1.xiaoxiao.normal.mp3",
+        "slow": "syllables/yi1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yi1.xiaoyi.normal.mp3",
+        "slow": "syllables/yi1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yi2",
+    "pinyin": "yí",
+    "base": "yi",
+    "tone": 2,
+    "say": "姨",
+    "groups": [
+      "toneSets: yi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yi2.xiaoxiao.normal.mp3",
+        "slow": "syllables/yi2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yi2.xiaoyi.normal.mp3",
+        "slow": "syllables/yi2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yi3",
+    "pinyin": "yǐ",
+    "base": "yi",
+    "tone": 3,
+    "say": "椅",
+    "groups": [
+      "toneSets: yi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yi3.xiaoxiao.normal.mp3",
+        "slow": "syllables/yi3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yi3.xiaoyi.normal.mp3",
+        "slow": "syllables/yi3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yi4",
+    "pinyin": "yì",
+    "base": "yi",
+    "tone": 4,
+    "say": "亿",
+    "groups": [
+      "toneSets: yi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yi4.xiaoxiao.normal.mp3",
+        "slow": "syllables/yi4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yi4.xiaoyi.normal.mp3",
+        "slow": "syllables/yi4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wu1",
+    "pinyin": "wū",
+    "base": "wu",
+    "tone": 1,
+    "say": "屋",
+    "groups": [
+      "toneSets: wu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/wu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wu1.xiaoyi.normal.mp3",
+        "slow": "syllables/wu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wu2",
+    "pinyin": "wú",
+    "base": "wu",
+    "tone": 2,
+    "say": "无",
+    "groups": [
+      "toneSets: wu",
+      "finals: u / ü"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wu2.xiaoxiao.normal.mp3",
+        "slow": "syllables/wu2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wu2.xiaoyi.normal.mp3",
+        "slow": "syllables/wu2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wu3",
+    "pinyin": "wǔ",
+    "base": "wu",
+    "tone": 3,
+    "say": "五",
+    "groups": [
+      "toneSets: wu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wu3.xiaoxiao.normal.mp3",
+        "slow": "syllables/wu3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wu3.xiaoyi.normal.mp3",
+        "slow": "syllables/wu3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wu4",
+    "pinyin": "wù",
+    "base": "wu",
+    "tone": 4,
+    "say": "雾",
+    "groups": [
+      "toneSets: wu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wu4.xiaoxiao.normal.mp3",
+        "slow": "syllables/wu4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wu4.xiaoyi.normal.mp3",
+        "slow": "syllables/wu4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yu1",
+    "pinyin": "yū",
+    "base": "yu",
+    "tone": 1,
+    "say": "迂",
+    "groups": [
+      "toneSets: yu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/yu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yu1.xiaoyi.normal.mp3",
+        "slow": "syllables/yu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yu2",
+    "pinyin": "yú",
+    "base": "yu",
+    "tone": 2,
+    "say": "鱼",
+    "groups": [
+      "toneSets: yu",
+      "finals: u / ü"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yu2.xiaoxiao.normal.mp3",
+        "slow": "syllables/yu2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yu2.xiaoyi.normal.mp3",
+        "slow": "syllables/yu2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yu3",
+    "pinyin": "yǔ",
+    "base": "yu",
+    "tone": 3,
+    "say": "雨",
+    "groups": [
+      "toneSets: yu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yu3.xiaoxiao.normal.mp3",
+        "slow": "syllables/yu3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yu3.xiaoyi.normal.mp3",
+        "slow": "syllables/yu3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yu4",
+    "pinyin": "yù",
+    "base": "yu",
+    "tone": 4,
+    "say": "玉",
+    "groups": [
+      "toneSets: yu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yu4.xiaoxiao.normal.mp3",
+        "slow": "syllables/yu4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yu4.xiaoyi.normal.mp3",
+        "slow": "syllables/yu4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "shi1",
+    "pinyin": "shī",
+    "base": "shi",
+    "tone": 1,
+    "say": "诗",
+    "groups": [
+      "toneSets: shi",
+      "initials: sh / s / x"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/shi1.xiaoxiao.normal.mp3",
+        "slow": "syllables/shi1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/shi1.xiaoyi.normal.mp3",
+        "slow": "syllables/shi1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "shi2",
+    "pinyin": "shí",
+    "base": "shi",
+    "tone": 2,
+    "say": "十",
+    "groups": [
+      "toneSets: shi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/shi2.xiaoxiao.normal.mp3",
+        "slow": "syllables/shi2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/shi2.xiaoyi.normal.mp3",
+        "slow": "syllables/shi2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "shi3",
+    "pinyin": "shǐ",
+    "base": "shi",
+    "tone": 3,
+    "say": "史",
+    "groups": [
+      "toneSets: shi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/shi3.xiaoxiao.normal.mp3",
+        "slow": "syllables/shi3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/shi3.xiaoyi.normal.mp3",
+        "slow": "syllables/shi3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "shi4",
+    "pinyin": "shì",
+    "base": "shi",
+    "tone": 4,
+    "say": "是",
+    "groups": [
+      "toneSets: shi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/shi4.xiaoxiao.normal.mp3",
+        "slow": "syllables/shi4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/shi4.xiaoyi.normal.mp3",
+        "slow": "syllables/shi4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fei1",
+    "pinyin": "fēi",
+    "base": "fei",
+    "tone": 1,
+    "say": "飞",
+    "groups": [
+      "toneSets: fei",
+      "initials: f / h"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fei1.xiaoxiao.normal.mp3",
+        "slow": "syllables/fei1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fei1.xiaoyi.normal.mp3",
+        "slow": "syllables/fei1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fei2",
+    "pinyin": "féi",
+    "base": "fei",
+    "tone": 2,
+    "say": "肥",
+    "groups": [
+      "toneSets: fei"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fei2.xiaoxiao.normal.mp3",
+        "slow": "syllables/fei2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fei2.xiaoyi.normal.mp3",
+        "slow": "syllables/fei2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fei3",
+    "pinyin": "fěi",
+    "base": "fei",
+    "tone": 3,
+    "say": "匪",
+    "groups": [
+      "toneSets: fei"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fei3.xiaoxiao.normal.mp3",
+        "slow": "syllables/fei3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fei3.xiaoyi.normal.mp3",
+        "slow": "syllables/fei3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fei4",
+    "pinyin": "fèi",
+    "base": "fei",
+    "tone": 4,
+    "say": "费",
+    "groups": [
+      "toneSets: fei"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fei4.xiaoxiao.normal.mp3",
+        "slow": "syllables/fei4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fei4.xiaoyi.normal.mp3",
+        "slow": "syllables/fei4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tang1",
+    "pinyin": "tāng",
+    "base": "tang",
+    "tone": 1,
+    "say": "汤",
+    "groups": [
+      "toneSets: tang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tang1.xiaoxiao.normal.mp3",
+        "slow": "syllables/tang1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tang1.xiaoyi.normal.mp3",
+        "slow": "syllables/tang1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tang2",
+    "pinyin": "táng",
+    "base": "tang",
+    "tone": 2,
+    "say": "糖",
+    "groups": [
+      "toneSets: tang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tang2.xiaoxiao.normal.mp3",
+        "slow": "syllables/tang2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tang2.xiaoyi.normal.mp3",
+        "slow": "syllables/tang2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tang3",
+    "pinyin": "tǎng",
+    "base": "tang",
+    "tone": 3,
+    "say": "躺",
+    "groups": [
+      "toneSets: tang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tang3.xiaoxiao.normal.mp3",
+        "slow": "syllables/tang3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tang3.xiaoyi.normal.mp3",
+        "slow": "syllables/tang3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tang4",
+    "pinyin": "tàng",
+    "base": "tang",
+    "tone": 4,
+    "say": "烫",
+    "groups": [
+      "toneSets: tang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tang4.xiaoxiao.normal.mp3",
+        "slow": "syllables/tang4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tang4.xiaoyi.normal.mp3",
+        "slow": "syllables/tang4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wan1",
+    "pinyin": "wān",
+    "base": "wan",
+    "tone": 1,
+    "say": "弯",
+    "groups": [
+      "toneSets: wan"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wan1.xiaoxiao.normal.mp3",
+        "slow": "syllables/wan1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wan1.xiaoyi.normal.mp3",
+        "slow": "syllables/wan1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wan2",
+    "pinyin": "wán",
+    "base": "wan",
+    "tone": 2,
+    "say": "完",
+    "groups": [
+      "toneSets: wan"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wan2.xiaoxiao.normal.mp3",
+        "slow": "syllables/wan2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wan2.xiaoyi.normal.mp3",
+        "slow": "syllables/wan2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wan3",
+    "pinyin": "wǎn",
+    "base": "wan",
+    "tone": 3,
+    "say": "碗",
+    "groups": [
+      "toneSets: wan"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wan3.xiaoxiao.normal.mp3",
+        "slow": "syllables/wan3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wan3.xiaoyi.normal.mp3",
+        "slow": "syllables/wan3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "wan4",
+    "pinyin": "wàn",
+    "base": "wan",
+    "tone": 4,
+    "say": "万",
+    "groups": [
+      "toneSets: wan"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/wan4.xiaoxiao.normal.mp3",
+        "slow": "syllables/wan4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/wan4.xiaoyi.normal.mp3",
+        "slow": "syllables/wan4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tong1",
+    "pinyin": "tōng",
+    "base": "tong",
+    "tone": 1,
+    "say": "通",
+    "groups": [
+      "toneSets: tong"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tong1.xiaoxiao.normal.mp3",
+        "slow": "syllables/tong1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tong1.xiaoyi.normal.mp3",
+        "slow": "syllables/tong1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tong2",
+    "pinyin": "tóng",
+    "base": "tong",
+    "tone": 2,
+    "say": "同",
+    "groups": [
+      "toneSets: tong"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tong2.xiaoxiao.normal.mp3",
+        "slow": "syllables/tong2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tong2.xiaoyi.normal.mp3",
+        "slow": "syllables/tong2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tong3",
+    "pinyin": "tǒng",
+    "base": "tong",
+    "tone": 3,
+    "say": "桶",
+    "groups": [
+      "toneSets: tong"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tong3.xiaoxiao.normal.mp3",
+        "slow": "syllables/tong3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tong3.xiaoyi.normal.mp3",
+        "slow": "syllables/tong3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tong4",
+    "pinyin": "tòng",
+    "base": "tong",
+    "tone": 4,
+    "say": "痛",
+    "groups": [
+      "toneSets: tong"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tong4.xiaoxiao.normal.mp3",
+        "slow": "syllables/tong4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tong4.xiaoyi.normal.mp3",
+        "slow": "syllables/tong4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "qi1",
+    "pinyin": "qī",
+    "base": "qi",
+    "tone": 1,
+    "say": "七",
+    "groups": [
+      "toneSets: qi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/qi1.xiaoxiao.normal.mp3",
+        "slow": "syllables/qi1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/qi1.xiaoyi.normal.mp3",
+        "slow": "syllables/qi1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "qi2",
+    "pinyin": "qí",
+    "base": "qi",
+    "tone": 2,
+    "say": "骑",
+    "groups": [
+      "toneSets: qi",
+      "initials: ch / c / q"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/qi2.xiaoxiao.normal.mp3",
+        "slow": "syllables/qi2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/qi2.xiaoyi.normal.mp3",
+        "slow": "syllables/qi2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "qi3",
+    "pinyin": "qǐ",
+    "base": "qi",
+    "tone": 3,
+    "say": "起",
+    "groups": [
+      "toneSets: qi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/qi3.xiaoxiao.normal.mp3",
+        "slow": "syllables/qi3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/qi3.xiaoyi.normal.mp3",
+        "slow": "syllables/qi3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "qi4",
+    "pinyin": "qì",
+    "base": "qi",
+    "tone": 4,
+    "say": "气",
+    "groups": [
+      "toneSets: qi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/qi4.xiaoxiao.normal.mp3",
+        "slow": "syllables/qi4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/qi4.xiaoyi.normal.mp3",
+        "slow": "syllables/qi4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ji1",
+    "pinyin": "jī",
+    "base": "ji",
+    "tone": 1,
+    "say": "鸡",
+    "groups": [
+      "toneSets: ji",
+      "initials: zh / z / j"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ji1.xiaoxiao.normal.mp3",
+        "slow": "syllables/ji1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ji1.xiaoyi.normal.mp3",
+        "slow": "syllables/ji1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ji2",
+    "pinyin": "jí",
+    "base": "ji",
+    "tone": 2,
+    "say": "急",
+    "groups": [
+      "toneSets: ji"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ji2.xiaoxiao.normal.mp3",
+        "slow": "syllables/ji2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ji2.xiaoyi.normal.mp3",
+        "slow": "syllables/ji2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ji3",
+    "pinyin": "jǐ",
+    "base": "ji",
+    "tone": 3,
+    "say": "挤",
+    "groups": [
+      "toneSets: ji"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ji3.xiaoxiao.normal.mp3",
+        "slow": "syllables/ji3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ji3.xiaoyi.normal.mp3",
+        "slow": "syllables/ji3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ji4",
+    "pinyin": "jì",
+    "base": "ji",
+    "tone": 4,
+    "say": "记",
+    "groups": [
+      "toneSets: ji"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ji4.xiaoxiao.normal.mp3",
+        "slow": "syllables/ji4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ji4.xiaoyi.normal.mp3",
+        "slow": "syllables/ji4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fang1",
+    "pinyin": "fāng",
+    "base": "fang",
+    "tone": 1,
+    "say": "方",
+    "groups": [
+      "toneSets: fang",
+      "finals: an / ang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fang1.xiaoxiao.normal.mp3",
+        "slow": "syllables/fang1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fang1.xiaoyi.normal.mp3",
+        "slow": "syllables/fang1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fang2",
+    "pinyin": "fáng",
+    "base": "fang",
+    "tone": 2,
+    "say": "房",
+    "groups": [
+      "toneSets: fang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fang2.xiaoxiao.normal.mp3",
+        "slow": "syllables/fang2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fang2.xiaoyi.normal.mp3",
+        "slow": "syllables/fang2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fang3",
+    "pinyin": "fǎng",
+    "base": "fang",
+    "tone": 3,
+    "say": "访",
+    "groups": [
+      "toneSets: fang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fang3.xiaoxiao.normal.mp3",
+        "slow": "syllables/fang3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fang3.xiaoyi.normal.mp3",
+        "slow": "syllables/fang3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fang4",
+    "pinyin": "fàng",
+    "base": "fang",
+    "tone": 4,
+    "say": "放",
+    "groups": [
+      "toneSets: fang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fang4.xiaoxiao.normal.mp3",
+        "slow": "syllables/fang4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fang4.xiaoyi.normal.mp3",
+        "slow": "syllables/fang4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "zhu1",
+    "pinyin": "zhū",
+    "base": "zhu",
+    "tone": 1,
+    "say": "猪",
+    "groups": [
+      "toneSets: zhu",
+      "initials: zhu / zu / ju"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/zhu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/zhu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/zhu1.xiaoyi.normal.mp3",
+        "slow": "syllables/zhu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "zhu2",
+    "pinyin": "zhú",
+    "base": "zhu",
+    "tone": 2,
+    "say": "竹",
+    "groups": [
+      "toneSets: zhu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/zhu2.xiaoxiao.normal.mp3",
+        "slow": "syllables/zhu2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/zhu2.xiaoyi.normal.mp3",
+        "slow": "syllables/zhu2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "zhu3",
+    "pinyin": "zhǔ",
+    "base": "zhu",
+    "tone": 3,
+    "say": "主",
+    "groups": [
+      "toneSets: zhu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/zhu3.xiaoxiao.normal.mp3",
+        "slow": "syllables/zhu3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/zhu3.xiaoyi.normal.mp3",
+        "slow": "syllables/zhu3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "zhu4",
+    "pinyin": "zhù",
+    "base": "zhu",
+    "tone": 4,
+    "say": "住",
+    "groups": [
+      "toneSets: zhu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/zhu4.xiaoxiao.normal.mp3",
+        "slow": "syllables/zhu4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/zhu4.xiaoyi.normal.mp3",
+        "slow": "syllables/zhu4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xiang1",
+    "pinyin": "xiāng",
+    "base": "xiang",
+    "tone": 1,
+    "say": "香",
+    "groups": [
+      "toneSets: xiang",
+      "finals: ian / iang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xiang1.xiaoxiao.normal.mp3",
+        "slow": "syllables/xiang1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xiang1.xiaoyi.normal.mp3",
+        "slow": "syllables/xiang1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xiang2",
+    "pinyin": "xiáng",
+    "base": "xiang",
+    "tone": 2,
+    "say": "详",
+    "groups": [
+      "toneSets: xiang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xiang2.xiaoxiao.normal.mp3",
+        "slow": "syllables/xiang2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xiang2.xiaoyi.normal.mp3",
+        "slow": "syllables/xiang2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xiang3",
+    "pinyin": "xiǎng",
+    "base": "xiang",
+    "tone": 3,
+    "say": "想",
+    "groups": [
+      "toneSets: xiang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xiang3.xiaoxiao.normal.mp3",
+        "slow": "syllables/xiang3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xiang3.xiaoyi.normal.mp3",
+        "slow": "syllables/xiang3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xiang4",
+    "pinyin": "xiàng",
+    "base": "xiang",
+    "tone": 4,
+    "say": "象",
+    "groups": [
+      "toneSets: xiang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xiang4.xiaoxiao.normal.mp3",
+        "slow": "syllables/xiang4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xiang4.xiaoyi.normal.mp3",
+        "slow": "syllables/xiang4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chi1",
+    "pinyin": "chī",
+    "base": "chi",
+    "tone": 1,
+    "say": "吃",
+    "groups": [
+      "toneSets: chi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/chi1.xiaoxiao.normal.mp3",
+        "slow": "syllables/chi1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/chi1.xiaoyi.normal.mp3",
+        "slow": "syllables/chi1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chi2",
+    "pinyin": "chí",
+    "base": "chi",
+    "tone": 2,
+    "say": "池",
+    "groups": [
+      "toneSets: chi",
+      "initials: ch / c / q"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/chi2.xiaoxiao.normal.mp3",
+        "slow": "syllables/chi2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/chi2.xiaoyi.normal.mp3",
+        "slow": "syllables/chi2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chi3",
+    "pinyin": "chǐ",
+    "base": "chi",
+    "tone": 3,
+    "say": "尺",
+    "groups": [
+      "toneSets: chi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/chi3.xiaoxiao.normal.mp3",
+        "slow": "syllables/chi3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/chi3.xiaoyi.normal.mp3",
+        "slow": "syllables/chi3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chi4",
+    "pinyin": "chì",
+    "base": "chi",
+    "tone": 4,
+    "say": "翅",
+    "groups": [
+      "toneSets: chi"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/chi4.xiaoxiao.normal.mp3",
+        "slow": "syllables/chi4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/chi4.xiaoyi.normal.mp3",
+        "slow": "syllables/chi4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lao1",
+    "pinyin": "lāo",
+    "base": "lao",
+    "tone": 1,
+    "say": "捞",
+    "groups": [
+      "toneSets: lao"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/lao1.xiaoxiao.normal.mp3",
+        "slow": "syllables/lao1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/lao1.xiaoyi.normal.mp3",
+        "slow": "syllables/lao1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lao2",
+    "pinyin": "láo",
+    "base": "lao",
+    "tone": 2,
+    "say": "劳",
+    "groups": [
+      "toneSets: lao"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/lao2.xiaoxiao.normal.mp3",
+        "slow": "syllables/lao2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/lao2.xiaoyi.normal.mp3",
+        "slow": "syllables/lao2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lao3",
+    "pinyin": "lǎo",
+    "base": "lao",
+    "tone": 3,
+    "say": "老",
+    "groups": [
+      "toneSets: lao"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/lao3.xiaoxiao.normal.mp3",
+        "slow": "syllables/lao3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/lao3.xiaoyi.normal.mp3",
+        "slow": "syllables/lao3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lao4",
+    "pinyin": "lào",
+    "base": "lao",
+    "tone": 4,
+    "say": "涝",
+    "groups": [
+      "toneSets: lao"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/lao4.xiaoxiao.normal.mp3",
+        "slow": "syllables/lao4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/lao4.xiaoyi.normal.mp3",
+        "slow": "syllables/lao4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "hua1",
+    "pinyin": "huā",
+    "base": "hua",
+    "tone": 1,
+    "say": "花",
+    "groups": [
+      "toneSets: hua"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/hua1.xiaoxiao.normal.mp3",
+        "slow": "syllables/hua1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/hua1.xiaoyi.normal.mp3",
+        "slow": "syllables/hua1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "hua2",
+    "pinyin": "huá",
+    "base": "hua",
+    "tone": 2,
+    "say": "滑",
+    "groups": [
+      "toneSets: hua"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/hua2.xiaoxiao.normal.mp3",
+        "slow": "syllables/hua2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/hua2.xiaoyi.normal.mp3",
+        "slow": "syllables/hua2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "hua4",
+    "pinyin": "huà",
+    "base": "hua",
+    "tone": 4,
+    "say": "话",
+    "groups": [
+      "toneSets: hua"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/hua4.xiaoxiao.normal.mp3",
+        "slow": "syllables/hua4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/hua4.xiaoyi.normal.mp3",
+        "slow": "syllables/hua4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "guo1",
+    "pinyin": "guō",
+    "base": "guo",
+    "tone": 1,
+    "say": "锅",
+    "groups": [
+      "toneSets: guo"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/guo1.xiaoxiao.normal.mp3",
+        "slow": "syllables/guo1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/guo1.xiaoyi.normal.mp3",
+        "slow": "syllables/guo1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "guo2",
+    "pinyin": "guó",
+    "base": "guo",
+    "tone": 2,
+    "say": "国",
+    "groups": [
+      "toneSets: guo"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/guo2.xiaoxiao.normal.mp3",
+        "slow": "syllables/guo2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/guo2.xiaoyi.normal.mp3",
+        "slow": "syllables/guo2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "guo3",
+    "pinyin": "guǒ",
+    "base": "guo",
+    "tone": 3,
+    "say": "果",
+    "groups": [
+      "toneSets: guo"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/guo3.xiaoxiao.normal.mp3",
+        "slow": "syllables/guo3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/guo3.xiaoyi.normal.mp3",
+        "slow": "syllables/guo3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tian1",
+    "pinyin": "tiān",
+    "base": "tian",
+    "tone": 1,
+    "say": "天",
+    "groups": [
+      "toneSets: tian"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tian1.xiaoxiao.normal.mp3",
+        "slow": "syllables/tian1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tian1.xiaoyi.normal.mp3",
+        "slow": "syllables/tian1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tian2",
+    "pinyin": "tián",
+    "base": "tian",
+    "tone": 2,
+    "say": "甜",
+    "groups": [
+      "toneSets: tian"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tian2.xiaoxiao.normal.mp3",
+        "slow": "syllables/tian2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tian2.xiaoyi.normal.mp3",
+        "slow": "syllables/tian2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "tian3",
+    "pinyin": "tiǎn",
+    "base": "tian",
+    "tone": 3,
+    "say": "舔",
+    "groups": [
+      "toneSets: tian"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/tian3.xiaoxiao.normal.mp3",
+        "slow": "syllables/tian3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/tian3.xiaoyi.normal.mp3",
+        "slow": "syllables/tian3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "mai2",
+    "pinyin": "mái",
+    "base": "mai",
+    "tone": 2,
+    "say": "霾",
+    "groups": [
+      "toneSets: mai"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/mai2.xiaoxiao.normal.mp3",
+        "slow": "syllables/mai2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/mai2.xiaoyi.normal.mp3",
+        "slow": "syllables/mai2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "mai3",
+    "pinyin": "mǎi",
+    "base": "mai",
+    "tone": 3,
+    "say": "买",
+    "groups": [
+      "toneSets: mai"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/mai3.xiaoxiao.normal.mp3",
+        "slow": "syllables/mai3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/mai3.xiaoyi.normal.mp3",
+        "slow": "syllables/mai3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "mai4",
+    "pinyin": "mài",
+    "base": "mai",
+    "tone": 4,
+    "say": "卖",
+    "groups": [
+      "toneSets: mai"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/mai4.xiaoxiao.normal.mp3",
+        "slow": "syllables/mai4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/mai4.xiaoyi.normal.mp3",
+        "slow": "syllables/mai4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ge1",
+    "pinyin": "gē",
+    "base": "ge",
+    "tone": 1,
+    "say": "哥",
+    "groups": [
+      "toneSets: ge",
+      "initials: g / k"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ge1.xiaoxiao.normal.mp3",
+        "slow": "syllables/ge1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ge1.xiaoyi.normal.mp3",
+        "slow": "syllables/ge1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ge2",
+    "pinyin": "gé",
+    "base": "ge",
+    "tone": 2,
+    "say": "格",
+    "groups": [
+      "toneSets: ge"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ge2.xiaoxiao.normal.mp3",
+        "slow": "syllables/ge2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ge2.xiaoyi.normal.mp3",
+        "slow": "syllables/ge2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ge4",
+    "pinyin": "gè",
+    "base": "ge",
+    "tone": 4,
+    "say": "个",
+    "groups": [
+      "toneSets: ge"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ge4.xiaoxiao.normal.mp3",
+        "slow": "syllables/ge4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ge4.xiaoyi.normal.mp3",
+        "slow": "syllables/ge4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "pa1",
+    "pinyin": "pā",
+    "base": "pa",
+    "tone": 1,
+    "say": "趴",
+    "groups": [
+      "initials: b / p"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/pa1.xiaoxiao.normal.mp3",
+        "slow": "syllables/pa1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/pa1.xiaoyi.normal.mp3",
+        "slow": "syllables/pa1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "da1",
+    "pinyin": "dā",
+    "base": "da",
+    "tone": 1,
+    "say": "搭",
+    "groups": [
+      "initials: d / t"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/da1.xiaoxiao.normal.mp3",
+        "slow": "syllables/da1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/da1.xiaoyi.normal.mp3",
+        "slow": "syllables/da1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ta1",
+    "pinyin": "tā",
+    "base": "ta",
+    "tone": 1,
+    "say": "他",
+    "groups": [
+      "initials: d / t"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ta1.xiaoxiao.normal.mp3",
+        "slow": "syllables/ta1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ta1.xiaoyi.normal.mp3",
+        "slow": "syllables/ta1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ke1",
+    "pinyin": "kē",
+    "base": "ke",
+    "tone": 1,
+    "say": "科",
+    "groups": [
+      "initials: g / k"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ke1.xiaoxiao.normal.mp3",
+        "slow": "syllables/ke1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ke1.xiaoyi.normal.mp3",
+        "slow": "syllables/ke1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "hui1",
+    "pinyin": "huī",
+    "base": "hui",
+    "tone": 1,
+    "say": "灰",
+    "groups": [
+      "initials: f / h"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/hui1.xiaoxiao.normal.mp3",
+        "slow": "syllables/hui1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/hui1.xiaoyi.normal.mp3",
+        "slow": "syllables/hui1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "nan2",
+    "pinyin": "nán",
+    "base": "nan",
+    "tone": 2,
+    "say": "南",
+    "groups": [
+      "initials: n / l"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/nan2.xiaoxiao.normal.mp3",
+        "slow": "syllables/nan2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/nan2.xiaoyi.normal.mp3",
+        "slow": "syllables/nan2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lan2",
+    "pinyin": "lán",
+    "base": "lan",
+    "tone": 2,
+    "say": "蓝",
+    "groups": [
+      "initials: n / l"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/lan2.xiaoxiao.normal.mp3",
+        "slow": "syllables/lan2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/lan2.xiaoyi.normal.mp3",
+        "slow": "syllables/lan2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "zhi1",
+    "pinyin": "zhī",
+    "base": "zhi",
+    "tone": 1,
+    "say": "知",
+    "groups": [
+      "initials: zh / z / j"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/zhi1.xiaoxiao.normal.mp3",
+        "slow": "syllables/zhi1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/zhi1.xiaoyi.normal.mp3",
+        "slow": "syllables/zhi1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "zi1",
+    "pinyin": "zī",
+    "base": "zi",
+    "tone": 1,
+    "say": "资",
+    "groups": [
+      "initials: zh / z / j"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/zi1.xiaoxiao.normal.mp3",
+        "slow": "syllables/zi1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/zi1.xiaoyi.normal.mp3",
+        "slow": "syllables/zi1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ci2",
+    "pinyin": "cí",
+    "base": "ci",
+    "tone": 2,
+    "say": "词",
+    "groups": [
+      "initials: ch / c / q"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ci2.xiaoxiao.normal.mp3",
+        "slow": "syllables/ci2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ci2.xiaoyi.normal.mp3",
+        "slow": "syllables/ci2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "si1",
+    "pinyin": "sī",
+    "base": "si",
+    "tone": 1,
+    "say": "丝",
+    "groups": [
+      "initials: sh / s / x"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/si1.xiaoxiao.normal.mp3",
+        "slow": "syllables/si1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/si1.xiaoyi.normal.mp3",
+        "slow": "syllables/si1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xi1",
+    "pinyin": "xī",
+    "base": "xi",
+    "tone": 1,
+    "say": "西",
+    "groups": [
+      "initials: sh / s / x"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xi1.xiaoxiao.normal.mp3",
+        "slow": "syllables/xi1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xi1.xiaoyi.normal.mp3",
+        "slow": "syllables/xi1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "zu1",
+    "pinyin": "zū",
+    "base": "zu",
+    "tone": 1,
+    "say": "租",
+    "groups": [
+      "initials: zhu / zu / ju"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/zu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/zu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/zu1.xiaoyi.normal.mp3",
+        "slow": "syllables/zu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ju1",
+    "pinyin": "jū",
+    "base": "ju",
+    "tone": 1,
+    "say": "居",
+    "groups": [
+      "initials: zhu / zu / ju",
+      "finals: ü after j, q, x"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ju1.xiaoxiao.normal.mp3",
+        "slow": "syllables/ju1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ju1.xiaoyi.normal.mp3",
+        "slow": "syllables/ju1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chu1",
+    "pinyin": "chū",
+    "base": "chu",
+    "tone": 1,
+    "say": "出",
+    "groups": [
+      "initials: chu / cu / qu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/chu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/chu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/chu1.xiaoyi.normal.mp3",
+        "slow": "syllables/chu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "cu1",
+    "pinyin": "cū",
+    "base": "cu",
+    "tone": 1,
+    "say": "粗",
+    "groups": [
+      "initials: chu / cu / qu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/cu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/cu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/cu1.xiaoyi.normal.mp3",
+        "slow": "syllables/cu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "qu1",
+    "pinyin": "qū",
+    "base": "qu",
+    "tone": 1,
+    "say": "区",
+    "groups": [
+      "initials: chu / cu / qu",
+      "finals: ü after j, q, x"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/qu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/qu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/qu1.xiaoyi.normal.mp3",
+        "slow": "syllables/qu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "shu1",
+    "pinyin": "shū",
+    "base": "shu",
+    "tone": 1,
+    "say": "书",
+    "groups": [
+      "initials: shu / su / xu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/shu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/shu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/shu1.xiaoyi.normal.mp3",
+        "slow": "syllables/shu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "su1",
+    "pinyin": "sū",
+    "base": "su",
+    "tone": 1,
+    "say": "苏",
+    "groups": [
+      "initials: shu / su / xu"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/su1.xiaoxiao.normal.mp3",
+        "slow": "syllables/su1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/su1.xiaoyi.normal.mp3",
+        "slow": "syllables/su1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xu1",
+    "pinyin": "xū",
+    "base": "xu",
+    "tone": 1,
+    "say": "需",
+    "groups": [
+      "initials: shu / su / xu",
+      "finals: ü after j, q, x"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xu1.xiaoxiao.normal.mp3",
+        "slow": "syllables/xu1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xu1.xiaoyi.normal.mp3",
+        "slow": "syllables/xu1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ri4",
+    "pinyin": "rì",
+    "base": "ri",
+    "tone": 4,
+    "say": "日",
+    "groups": [
+      "initials: r"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ri4.xiaoxiao.normal.mp3",
+        "slow": "syllables/ri4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ri4.xiaoyi.normal.mp3",
+        "slow": "syllables/ri4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "re4",
+    "pinyin": "rè",
+    "base": "re",
+    "tone": 4,
+    "say": "热",
+    "groups": [
+      "initials: r"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/re4.xiaoxiao.normal.mp3",
+        "slow": "syllables/re4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/re4.xiaoyi.normal.mp3",
+        "slow": "syllables/re4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ren2",
+    "pinyin": "rén",
+    "base": "ren",
+    "tone": 2,
+    "say": "人",
+    "groups": [
+      "initials: r"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/ren2.xiaoxiao.normal.mp3",
+        "slow": "syllables/ren2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/ren2.xiaoyi.normal.mp3",
+        "slow": "syllables/ren2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "rou4",
+    "pinyin": "ròu",
+    "base": "rou",
+    "tone": 4,
+    "say": "肉",
+    "groups": [
+      "initials: r"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/rou4.xiaoxiao.normal.mp3",
+        "slow": "syllables/rou4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/rou4.xiaoyi.normal.mp3",
+        "slow": "syllables/rou4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fan1",
+    "pinyin": "fān",
+    "base": "fan",
+    "tone": 1,
+    "say": "帆",
+    "groups": [
+      "finals: an / ang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/fan1.xiaoxiao.normal.mp3",
+        "slow": "syllables/fan1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/fan1.xiaoyi.normal.mp3",
+        "slow": "syllables/fan1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "sen1",
+    "pinyin": "sēn",
+    "base": "sen",
+    "tone": 1,
+    "say": "森",
+    "groups": [
+      "finals: en / eng"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/sen1.xiaoxiao.normal.mp3",
+        "slow": "syllables/sen1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/sen1.xiaoyi.normal.mp3",
+        "slow": "syllables/sen1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "seng1",
+    "pinyin": "sēng",
+    "base": "seng",
+    "tone": 1,
+    "say": "僧",
+    "groups": [
+      "finals: en / eng"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/seng1.xiaoxiao.normal.mp3",
+        "slow": "syllables/seng1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/seng1.xiaoyi.normal.mp3",
+        "slow": "syllables/seng1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xin1",
+    "pinyin": "xīn",
+    "base": "xin",
+    "tone": 1,
+    "say": "新",
+    "groups": [
+      "finals: in / ing"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xin1.xiaoxiao.normal.mp3",
+        "slow": "syllables/xin1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xin1.xiaoyi.normal.mp3",
+        "slow": "syllables/xin1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xing1",
+    "pinyin": "xīng",
+    "base": "xing",
+    "tone": 1,
+    "say": "星",
+    "groups": [
+      "finals: in / ing"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xing1.xiaoxiao.normal.mp3",
+        "slow": "syllables/xing1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xing1.xiaoyi.normal.mp3",
+        "slow": "syllables/xing1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xian1",
+    "pinyin": "xiān",
+    "base": "xian",
+    "tone": 1,
+    "say": "先",
+    "groups": [
+      "finals: ian / iang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xian1.xiaoxiao.normal.mp3",
+        "slow": "syllables/xian1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xian1.xiaoyi.normal.mp3",
+        "slow": "syllables/xian1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "guan1",
+    "pinyin": "guān",
+    "base": "guan",
+    "tone": 1,
+    "say": "关",
+    "groups": [
+      "finals: uan / uang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/guan1.xiaoxiao.normal.mp3",
+        "slow": "syllables/guan1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/guan1.xiaoyi.normal.mp3",
+        "slow": "syllables/guan1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "guang1",
+    "pinyin": "guāng",
+    "base": "guang",
+    "tone": 1,
+    "say": "光",
+    "groups": [
+      "finals: uan / uang"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/guang1.xiaoxiao.normal.mp3",
+        "slow": "syllables/guang1.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/guang1.xiaoyi.normal.mp3",
+        "slow": "syllables/guang1.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "nu3",
+    "pinyin": "nǔ",
+    "base": "nu",
+    "tone": 3,
+    "say": "努",
+    "groups": [
+      "finals: nu / nü"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/nu3.xiaoxiao.normal.mp3",
+        "slow": "syllables/nu3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/nu3.xiaoyi.normal.mp3",
+        "slow": "syllables/nu3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "nv3",
+    "pinyin": "nǚ",
+    "base": "nü",
+    "tone": 3,
+    "say": "女",
+    "groups": [
+      "finals: nu / nü"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/nv3.xiaoxiao.normal.mp3",
+        "slow": "syllables/nv3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/nv3.xiaoyi.normal.mp3",
+        "slow": "syllables/nv3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lu3",
+    "pinyin": "lǔ",
+    "base": "lu",
+    "tone": 3,
+    "say": "鲁",
+    "groups": [
+      "finals: lu / lü"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/lu3.xiaoxiao.normal.mp3",
+        "slow": "syllables/lu3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/lu3.xiaoyi.normal.mp3",
+        "slow": "syllables/lu3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lv3",
+    "pinyin": "lǚ",
+    "base": "lü",
+    "tone": 3,
+    "say": "旅",
+    "groups": [
+      "finals: lu / lü"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/lv3.xiaoxiao.normal.mp3",
+        "slow": "syllables/lv3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/lv3.xiaoyi.normal.mp3",
+        "slow": "syllables/lv3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yue4",
+    "pinyin": "yuè",
+    "base": "yue",
+    "tone": 4,
+    "say": "月",
+    "groups": [
+      "finals: üe, ün, üan"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yue4.xiaoxiao.normal.mp3",
+        "slow": "syllables/yue4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yue4.xiaoyi.normal.mp3",
+        "slow": "syllables/yue4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yun2",
+    "pinyin": "yún",
+    "base": "yun",
+    "tone": 2,
+    "say": "云",
+    "groups": [
+      "finals: üe, ün, üan"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yun2.xiaoxiao.normal.mp3",
+        "slow": "syllables/yun2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yun2.xiaoyi.normal.mp3",
+        "slow": "syllables/yun2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "yuan3",
+    "pinyin": "yuǎn",
+    "base": "yuan",
+    "tone": 3,
+    "say": "远",
+    "groups": [
+      "finals: üe, ün, üan"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/yuan3.xiaoxiao.normal.mp3",
+        "slow": "syllables/yuan3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/yuan3.xiaoyi.normal.mp3",
+        "slow": "syllables/yuan3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "er2",
+    "pinyin": "ér",
+    "base": "er",
+    "tone": 2,
+    "say": "儿",
+    "groups": [
+      "finals: er"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/er2.xiaoxiao.normal.mp3",
+        "slow": "syllables/er2.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/er2.xiaoyi.normal.mp3",
+        "slow": "syllables/er2.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "er3",
+    "pinyin": "ěr",
+    "base": "er",
+    "tone": 3,
+    "say": "耳",
+    "groups": [
+      "finals: er"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/er3.xiaoxiao.normal.mp3",
+        "slow": "syllables/er3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/er3.xiaoyi.normal.mp3",
+        "slow": "syllables/er3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "er4",
+    "pinyin": "èr",
+    "base": "er",
+    "tone": 4,
+    "say": "二",
+    "groups": [
+      "finals: er"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/er4.xiaoxiao.normal.mp3",
+        "slow": "syllables/er4.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/er4.xiaoyi.normal.mp3",
+        "slow": "syllables/er4.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xie3",
+    "pinyin": "xiě",
+    "base": "xie",
+    "tone": 3,
+    "say": "写",
+    "groups": [
+      "finals: ie / üe"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xie3.xiaoxiao.normal.mp3",
+        "slow": "syllables/xie3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xie3.xiaoyi.normal.mp3",
+        "slow": "syllables/xie3.xiaoyi.slow.mp3"
+      }
+    ]
+  },
+  {
+    "id": "xue3",
+    "pinyin": "xuě",
+    "base": "xue",
+    "tone": 3,
+    "say": "雪",
+    "groups": [
+      "finals: ie / üe"
+    ],
+    "audio": [
+      {
+        "voice": "xiaoxiao",
+        "normal": "syllables/xue3.xiaoxiao.normal.mp3",
+        "slow": "syllables/xue3.xiaoxiao.slow.mp3"
+      },
+      {
+        "voice": "xiaoyi",
+        "normal": "syllables/xue3.xiaoyi.normal.mp3",
+        "slow": "syllables/xue3.xiaoyi.slow.mp3"
+      }
+    ]
+  }
+]
